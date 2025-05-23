@@ -9,6 +9,6 @@ namespace API.Data
 {
     public class DataContext(DbContextOptions options) : DbContext(options)
     {
-        public DbSet<Earthquake> Earthquakes { get; set; }
+        public DbSet<Earthquake> Earthquakes { get; set; } = null!;
     }
 }
