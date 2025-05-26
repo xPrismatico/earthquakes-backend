@@ -1,0 +1,7121 @@
+[
+  {
+    "date": "1976/02/28",
+    "latitude": -40.0,
+    "longitude": -74.73,
+    "depth": 9.0,
+    "magnitude": 6.0
+  },
+  {
+    "date": "1976/05/30",
+    "latitude": -41.64,
+    "longitude": -75.41,
+    "depth": 28.0,
+    "magnitude": 6.0
+  },
+  {
+    "date": "1976/11/30",
+    "latitude": -20.52,
+    "longitude": -68.92,
+    "depth": 82.0,
+    "magnitude": 6.5
+  },
+  {
+    "date": "1977/01/11",
+    "latitude": -31.68,
+    "longitude": -71.44,
+    "depth": 35.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1977/01/17",
+    "latitude": -24.85,
+    "longitude": -68.67,
+    "depth": 33.0,
+    "magnitude": 6.3
+  },
+  {
+    "date": "1977/02/22",
+    "latitude": -45.61,
+    "longitude": -75.29,
+    "depth": 33.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1977/04/15",
+    "latitude": -23.1,
+    "longitude": -68.71,
+    "depth": 99.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1977/06/05",
+    "latitude": -23.87,
+    "longitude": -70.16,
+    "depth": 32.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1977/06/08",
+    "latitude": -22.06,
+    "longitude": -67.26,
+    "depth": 144.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1977/06/18",
+    "latitude": -20.89,
+    "longitude": -68.45,
+    "depth": 131.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1977/06/30",
+    "latitude": -19.4,
+    "longitude": -69.53,
+    "depth": 106.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1977/07/02",
+    "latitude": -25.87,
+    "longitude": -70.79,
+    "depth": 32.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1977/08/23",
+    "latitude": -21.32,
+    "longitude": -68.23,
+    "depth": 99.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1977/09/20",
+    "latitude": -23.35,
+    "longitude": -68.33,
+    "depth": 114.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1977/10/05",
+    "latitude": -28.25,
+    "longitude": -70.74,
+    "depth": 52.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1977/11/23",
+    "latitude": -31.03,
+    "longitude": -67.77,
+    "depth": 13.0,
+    "magnitude": 6.3
+  },
+  {
+    "date": "1977/11/24",
+    "latitude": -31.3,
+    "longitude": -67.63,
+    "depth": 33.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1977/11/28",
+    "latitude": -31.68,
+    "longitude": -67.75,
+    "depth": 36.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1977/11/28",
+    "latitude": -31.35,
+    "longitude": -67.43,
+    "depth": 16.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1977/12/05",
+    "latitude": -30.97,
+    "longitude": -67.7,
+    "depth": 32.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1977/12/06",
+    "latitude": -31.17,
+    "longitude": -67.72,
+    "depth": 19.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1977/12/07",
+    "latitude": -28.57,
+    "longitude": -67.39,
+    "depth": 124.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1977/12/10",
+    "latitude": -31.19,
+    "longitude": -67.64,
+    "depth": 39.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1977/12/31",
+    "latitude": -15.3,
+    "longitude": -71.68,
+    "depth": 158.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1978/01/02",
+    "latitude": -38.14,
+    "longitude": -71.1,
+    "depth": 126.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1978/01/17",
+    "latitude": -31.29,
+    "longitude": -67.87,
+    "depth": 24.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1978/01/20",
+    "latitude": -34.28,
+    "longitude": -70.19,
+    "depth": 132.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1978/01/22",
+    "latitude": -16.13,
+    "longitude": -73.66,
+    "depth": 49.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1978/02/17",
+    "latitude": -28.57,
+    "longitude": -71.02,
+    "depth": 55.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1978/04/02",
+    "latitude": -19.07,
+    "longitude": -69.28,
+    "depth": 86.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1978/04/15",
+    "latitude": -16.47,
+    "longitude": -73.51,
+    "depth": 50.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1978/05/29",
+    "latitude": -44.86,
+    "longitude": -79.41,
+    "depth": 33.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1978/06/07",
+    "latitude": -23.64,
+    "longitude": -67.8,
+    "depth": 114.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1978/06/28",
+    "latitude": -27.54,
+    "longitude": -70.1,
+    "depth": 82.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1978/08/03",
+    "latitude": -26.51,
+    "longitude": -70.54,
+    "depth": 58.0,
+    "magnitude": 6.3
+  },
+  {
+    "date": "1978/08/21",
+    "latitude": -31.27,
+    "longitude": -67.77,
+    "depth": 10.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1978/10/27",
+    "latitude": -21.91,
+    "longitude": -65.79,
+    "depth": 280.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1978/12/21",
+    "latitude": -36.29,
+    "longitude": -72.46,
+    "depth": 47.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1978/12/24",
+    "latitude": -20.02,
+    "longitude": -69.82,
+    "depth": 48.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1979/01/13",
+    "latitude": -24.31,
+    "longitude": -67.8,
+    "depth": 103.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1979/02/16",
+    "latitude": -16.39,
+    "longitude": -72.66,
+    "depth": 53.0,
+    "magnitude": 6.2
+  },
+  {
+    "date": "1979/02/16",
+    "latitude": -16.5,
+    "longitude": -72.66,
+    "depth": 52.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1979/03/20",
+    "latitude": -35.68,
+    "longitude": -71.15,
+    "depth": 91.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1979/04/18",
+    "latitude": -24.34,
+    "longitude": -67.01,
+    "depth": 147.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1979/04/26",
+    "latitude": -33.82,
+    "longitude": -71.9,
+    "depth": 38.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1979/04/28",
+    "latitude": -27.46,
+    "longitude": -70.95,
+    "depth": 23.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1979/05/04",
+    "latitude": -21.56,
+    "longitude": -68.28,
+    "depth": 81.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1979/05/14",
+    "latitude": -22.81,
+    "longitude": -69.13,
+    "depth": 85.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1979/05/15",
+    "latitude": -22.94,
+    "longitude": -69.22,
+    "depth": 89.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1979/05/20",
+    "latitude": -27.15,
+    "longitude": -71.05,
+    "depth": 33.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1979/05/21",
+    "latitude": -15.25,
+    "longitude": -70.09,
+    "depth": 208.0,
+    "magnitude": 6.0
+  },
+  {
+    "date": "1979/05/22",
+    "latitude": -22.81,
+    "longitude": -69.14,
+    "depth": 58.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1979/05/28",
+    "latitude": -24.6,
+    "longitude": -70.26,
+    "depth": 63.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1979/06/06",
+    "latitude": -52.84,
+    "longitude": -75.1,
+    "depth": 33.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1979/06/17",
+    "latitude": -19.2,
+    "longitude": -68.89,
+    "depth": 116.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1979/06/27",
+    "latitude": -29.48,
+    "longitude": -68.28,
+    "depth": 115.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1979/07/06",
+    "latitude": -32.15,
+    "longitude": -71.32,
+    "depth": 45.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1979/08/02",
+    "latitude": -27.87,
+    "longitude": -71.2,
+    "depth": 37.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1979/08/10",
+    "latitude": -21.41,
+    "longitude": -66.61,
+    "depth": 257.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1979/08/30",
+    "latitude": -31.38,
+    "longitude": -67.63,
+    "depth": 32.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1979/09/15",
+    "latitude": -15.63,
+    "longitude": -69.56,
+    "depth": 214.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1979/10/11",
+    "latitude": -33.42,
+    "longitude": -71.74,
+    "depth": 41.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1979/11/22",
+    "latitude": -24.34,
+    "longitude": -67.39,
+    "depth": 169.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1979/12/26",
+    "latitude": -36.0,
+    "longitude": -71.34,
+    "depth": 92.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1979/12/28",
+    "latitude": -24.42,
+    "longitude": -69.38,
+    "depth": 83.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1980/01/14",
+    "latitude": -33.19,
+    "longitude": -69.46,
+    "depth": 14.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1980/01/28",
+    "latitude": -44.96,
+    "longitude": -76.11,
+    "depth": 33.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1980/02/05",
+    "latitude": -57.44,
+    "longitude": -66.64,
+    "depth": 10.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1980/02/14",
+    "latitude": -31.77,
+    "longitude": -71.42,
+    "depth": 45.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1980/03/07",
+    "latitude": -16.69,
+    "longitude": -72.95,
+    "depth": 43.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1980/03/23",
+    "latitude": -29.95,
+    "longitude": -71.54,
+    "depth": 36.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1980/03/29",
+    "latitude": -43.08,
+    "longitude": -75.2,
+    "depth": 33.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1980/03/29",
+    "latitude": -37.93,
+    "longitude": -73.5,
+    "depth": 33.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1980/04/09",
+    "latitude": -31.65,
+    "longitude": -67.48,
+    "depth": 10.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1980/04/14",
+    "latitude": -21.29,
+    "longitude": -68.73,
+    "depth": 100.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1980/05/02",
+    "latitude": -24.13,
+    "longitude": -66.94,
+    "depth": 163.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1980/05/26",
+    "latitude": -19.36,
+    "longitude": -69.29,
+    "depth": 62.0,
+    "magnitude": 6.0
+  },
+  {
+    "date": "1980/05/30",
+    "latitude": -23.11,
+    "longitude": -70.93,
+    "depth": 33.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1980/06/11",
+    "latitude": -32.72,
+    "longitude": -71.65,
+    "depth": 35.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1980/06/15",
+    "latitude": -15.52,
+    "longitude": -75.24,
+    "depth": 26.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1980/06/16",
+    "latitude": -22.03,
+    "longitude": -68.47,
+    "depth": 87.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1980/07/13",
+    "latitude": -33.47,
+    "longitude": -70.15,
+    "depth": 103.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1980/07/19",
+    "latitude": -29.0,
+    "longitude": -69.68,
+    "depth": 110.0,
+    "magnitude": 6.1
+  },
+  {
+    "date": "1980/08/03",
+    "latitude": -35.25,
+    "longitude": -69.99,
+    "depth": 151.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1980/08/29",
+    "latitude": -39.66,
+    "longitude": -73.1,
+    "depth": 34.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1980/11/08",
+    "latitude": -24.34,
+    "longitude": -67.65,
+    "depth": 103.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1980/11/10",
+    "latitude": -31.58,
+    "longitude": -67.47,
+    "depth": 21.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1980/12/11",
+    "latitude": -21.27,
+    "longitude": -68.15,
+    "depth": 80.0,
+    "magnitude": 6.1
+  },
+  {
+    "date": "1980/12/25",
+    "latitude": -31.48,
+    "longitude": -67.14,
+    "depth": 122.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1981/01/07",
+    "latitude": -23.75,
+    "longitude": -70.62,
+    "depth": 37.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1981/01/27",
+    "latitude": -23.03,
+    "longitude": -68.03,
+    "depth": 125.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1981/02/13",
+    "latitude": -15.59,
+    "longitude": -74.53,
+    "depth": 65.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1981/03/02",
+    "latitude": -22.64,
+    "longitude": -65.99,
+    "depth": 246.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1981/03/09",
+    "latitude": -23.57,
+    "longitude": -66.35,
+    "depth": 185.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1981/03/16",
+    "latitude": -35.53,
+    "longitude": -71.79,
+    "depth": 55.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1981/03/23",
+    "latitude": -33.66,
+    "longitude": -71.89,
+    "depth": 46.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1981/03/26",
+    "latitude": -19.37,
+    "longitude": -68.96,
+    "depth": 138.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1981/04/06",
+    "latitude": -35.37,
+    "longitude": -71.05,
+    "depth": 88.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1981/04/16",
+    "latitude": -20.16,
+    "longitude": -70.7,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1981/05/17",
+    "latitude": -27.22,
+    "longitude": -71.83,
+    "depth": 33.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1981/06/01",
+    "latitude": -20.49,
+    "longitude": -65.19,
+    "depth": 330.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1981/06/04",
+    "latitude": -34.2,
+    "longitude": -78.83,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1981/06/16",
+    "latitude": -21.49,
+    "longitude": -68.34,
+    "depth": 76.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1981/06/21",
+    "latitude": -20.26,
+    "longitude": -70.45,
+    "depth": 36.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1981/07/18",
+    "latitude": -22.68,
+    "longitude": -66.24,
+    "depth": 246.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1981/07/28",
+    "latitude": -41.57,
+    "longitude": -73.2,
+    "depth": 43.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1981/09/19",
+    "latitude": -39.08,
+    "longitude": -74.81,
+    "depth": 30.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1981/09/20",
+    "latitude": -23.08,
+    "longitude": -66.63,
+    "depth": 234.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1981/10/16",
+    "latitude": -33.13,
+    "longitude": -73.07,
+    "depth": 32.0,
+    "magnitude": 6.1
+  },
+  {
+    "date": "1981/11/02",
+    "latitude": -18.91,
+    "longitude": -69.78,
+    "depth": 94.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1981/11/07",
+    "latitude": -32.23,
+    "longitude": -71.37,
+    "depth": 64.0,
+    "magnitude": 6.1
+  },
+  {
+    "date": "1981/11/17",
+    "latitude": -25.95,
+    "longitude": -70.08,
+    "depth": 70.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1981/11/30",
+    "latitude": -17.02,
+    "longitude": -69.85,
+    "depth": 133.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1981/12/15",
+    "latitude": -36.28,
+    "longitude": -71.36,
+    "depth": 95.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1982/02/10",
+    "latitude": -22.79,
+    "longitude": -66.66,
+    "depth": 226.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1982/03/22",
+    "latitude": -19.88,
+    "longitude": -68.74,
+    "depth": 126.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1982/04/19",
+    "latitude": -22.6,
+    "longitude": -66.02,
+    "depth": 250.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1982/05/03",
+    "latitude": -23.47,
+    "longitude": -68.81,
+    "depth": 107.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1982/05/29",
+    "latitude": -22.35,
+    "longitude": -68.37,
+    "depth": 116.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1982/05/29",
+    "latitude": -24.99,
+    "longitude": -70.25,
+    "depth": 47.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1982/06/01",
+    "latitude": -41.63,
+    "longitude": -74.99,
+    "depth": 32.0,
+    "magnitude": 6.1
+  },
+  {
+    "date": "1982/06/03",
+    "latitude": -18.89,
+    "longitude": -68.02,
+    "depth": 185.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1982/06/05",
+    "latitude": -43.1,
+    "longitude": -75.21,
+    "depth": 33.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1982/06/10",
+    "latitude": -21.39,
+    "longitude": -67.4,
+    "depth": 199.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1982/07/11",
+    "latitude": -16.65,
+    "longitude": -73.21,
+    "depth": 39.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1982/07/19",
+    "latitude": -23.95,
+    "longitude": -66.74,
+    "depth": 207.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1982/08/05",
+    "latitude": -26.68,
+    "longitude": -70.66,
+    "depth": 40.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1982/09/03",
+    "latitude": -23.9,
+    "longitude": -66.63,
+    "depth": 189.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1982/09/06",
+    "latitude": -32.14,
+    "longitude": -71.46,
+    "depth": 73.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1982/09/11",
+    "latitude": -24.17,
+    "longitude": -67.0,
+    "depth": 150.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1982/10/24",
+    "latitude": -22.27,
+    "longitude": -70.08,
+    "depth": 35.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1982/10/26",
+    "latitude": -29.67,
+    "longitude": -71.26,
+    "depth": 69.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1982/11/18",
+    "latitude": -31.25,
+    "longitude": -65.86,
+    "depth": 160.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1982/12/31",
+    "latitude": -21.39,
+    "longitude": -68.05,
+    "depth": 130.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1982/12/31",
+    "latitude": -21.05,
+    "longitude": -68.46,
+    "depth": 67.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1983/01/01",
+    "latitude": -17.31,
+    "longitude": -69.28,
+    "depth": 172.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1983/01/10",
+    "latitude": -21.85,
+    "longitude": -68.32,
+    "depth": 98.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1983/01/26",
+    "latitude": -23.97,
+    "longitude": -67.0,
+    "depth": 186.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1983/01/27",
+    "latitude": -24.45,
+    "longitude": -67.17,
+    "depth": 188.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1983/02/01",
+    "latitude": -23.03,
+    "longitude": -68.8,
+    "depth": 102.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1983/02/15",
+    "latitude": -22.97,
+    "longitude": -66.5,
+    "depth": 202.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1983/02/25",
+    "latitude": -18.27,
+    "longitude": -69.44,
+    "depth": 146.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1983/02/28",
+    "latitude": -43.98,
+    "longitude": -79.06,
+    "depth": 10.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1983/04/02",
+    "latitude": -28.5,
+    "longitude": -66.54,
+    "depth": 40.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1983/05/02",
+    "latitude": -26.64,
+    "longitude": -70.7,
+    "depth": 33.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1983/05/07",
+    "latitude": -28.01,
+    "longitude": -70.79,
+    "depth": 51.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1983/05/09",
+    "latitude": -40.87,
+    "longitude": -74.84,
+    "depth": 33.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1983/05/23",
+    "latitude": -19.14,
+    "longitude": -69.15,
+    "depth": 110.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1983/06/06",
+    "latitude": -24.38,
+    "longitude": -66.93,
+    "depth": 157.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1983/07/21",
+    "latitude": -22.3,
+    "longitude": -68.53,
+    "depth": 127.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1983/08/01",
+    "latitude": -48.21,
+    "longitude": -75.88,
+    "depth": 33.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1983/09/01",
+    "latitude": -17.58,
+    "longitude": -69.98,
+    "depth": 110.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1983/09/14",
+    "latitude": -36.42,
+    "longitude": -73.08,
+    "depth": 37.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1983/09/21",
+    "latitude": -18.98,
+    "longitude": -69.12,
+    "depth": 112.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1983/10/04",
+    "latitude": -26.62,
+    "longitude": -70.77,
+    "depth": 18.0,
+    "magnitude": 6.4
+  },
+  {
+    "date": "1983/10/06",
+    "latitude": -26.72,
+    "longitude": -70.91,
+    "depth": 20.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1983/10/09",
+    "latitude": -26.26,
+    "longitude": -70.59,
+    "depth": 33.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1983/10/16",
+    "latitude": -23.84,
+    "longitude": -70.21,
+    "depth": 66.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1983/10/21",
+    "latitude": -30.64,
+    "longitude": -69.11,
+    "depth": 117.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1983/11/12",
+    "latitude": -15.73,
+    "longitude": -74.11,
+    "depth": 71.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1983/11/23",
+    "latitude": -15.09,
+    "longitude": -75.55,
+    "depth": 54.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1983/11/28",
+    "latitude": -44.95,
+    "longitude": -76.01,
+    "depth": 19.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1983/12/10",
+    "latitude": -44.36,
+    "longitude": -78.13,
+    "depth": 10.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1983/12/15",
+    "latitude": -33.09,
+    "longitude": -70.28,
+    "depth": 55.0,
+    "magnitude": 6.0
+  },
+  {
+    "date": "1983/12/19",
+    "latitude": -15.4,
+    "longitude": -74.54,
+    "depth": 64.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1983/12/23",
+    "latitude": -27.54,
+    "longitude": -71.46,
+    "depth": 33.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1984/01/01",
+    "latitude": -22.61,
+    "longitude": -66.02,
+    "depth": 228.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1984/01/06",
+    "latitude": -23.92,
+    "longitude": -68.65,
+    "depth": 103.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1984/02/03",
+    "latitude": -29.46,
+    "longitude": -71.13,
+    "depth": 33.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1984/02/26",
+    "latitude": -17.26,
+    "longitude": -70.57,
+    "depth": 85.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1984/03/04",
+    "latitude": -26.55,
+    "longitude": -70.7,
+    "depth": 33.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1984/04/19",
+    "latitude": -31.8,
+    "longitude": -71.9,
+    "depth": 31.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1984/04/24",
+    "latitude": -24.36,
+    "longitude": -66.95,
+    "depth": 163.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1984/05/04",
+    "latitude": -58.01,
+    "longitude": -65.81,
+    "depth": 10.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1984/05/07",
+    "latitude": -27.82,
+    "longitude": -66.64,
+    "depth": 137.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1984/05/09",
+    "latitude": -34.14,
+    "longitude": -70.27,
+    "depth": 119.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1984/05/16",
+    "latitude": -27.17,
+    "longitude": -67.04,
+    "depth": 139.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1984/05/25",
+    "latitude": -42.62,
+    "longitude": -75.13,
+    "depth": 31.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1984/06/03",
+    "latitude": -45.33,
+    "longitude": -75.71,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1984/06/11",
+    "latitude": -30.72,
+    "longitude": -71.21,
+    "depth": 45.0,
+    "magnitude": 6.2
+  },
+  {
+    "date": "1984/06/18",
+    "latitude": -15.73,
+    "longitude": -72.48,
+    "depth": 121.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1984/06/20",
+    "latitude": -23.98,
+    "longitude": -66.97,
+    "depth": 160.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1984/07/24",
+    "latitude": -25.79,
+    "longitude": -70.52,
+    "depth": 34.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1984/08/12",
+    "latitude": -24.36,
+    "longitude": -69.25,
+    "depth": 101.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1984/08/18",
+    "latitude": -27.91,
+    "longitude": -66.81,
+    "depth": 172.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1984/08/26",
+    "latitude": -16.19,
+    "longitude": -69.55,
+    "depth": 225.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1984/09/12",
+    "latitude": -15.77,
+    "longitude": -71.89,
+    "depth": 138.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1984/09/20",
+    "latitude": -15.06,
+    "longitude": -73.5,
+    "depth": 108.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1984/10/20",
+    "latitude": -24.26,
+    "longitude": -67.06,
+    "depth": 213.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1984/11/08",
+    "latitude": -30.67,
+    "longitude": -71.36,
+    "depth": 42.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1984/11/08",
+    "latitude": -31.42,
+    "longitude": -68.63,
+    "depth": 110.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1984/11/29",
+    "latitude": -35.5,
+    "longitude": -71.12,
+    "depth": 85.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1984/12/11",
+    "latitude": -22.84,
+    "longitude": -68.8,
+    "depth": 122.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1984/12/31",
+    "latitude": -23.06,
+    "longitude": -66.91,
+    "depth": 174.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1985/01/18",
+    "latitude": -29.41,
+    "longitude": -70.71,
+    "depth": 82.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1985/01/26",
+    "latitude": -33.15,
+    "longitude": -68.54,
+    "depth": 38.0,
+    "magnitude": 6.1
+  },
+  {
+    "date": "1985/02/14",
+    "latitude": -23.85,
+    "longitude": -67.75,
+    "depth": 123.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1985/02/21",
+    "latitude": -33.28,
+    "longitude": -71.72,
+    "depth": 33.0,
+    "magnitude": 4.7
+  },
+  {
+    "date": "1985/02/21",
+    "latitude": -20.72,
+    "longitude": -70.37,
+    "depth": 33.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1985/03/03",
+    "latitude": -33.15,
+    "longitude": -71.98,
+    "depth": 33.0,
+    "magnitude": 6.9
+  },
+  {
+    "date": "1985/03/04",
+    "latitude": -33.23,
+    "longitude": -71.76,
+    "depth": 33.0,
+    "magnitude": 6.0
+  },
+  {
+    "date": "1985/03/04",
+    "latitude": -33.58,
+    "longitude": -71.86,
+    "depth": 33.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1985/03/04",
+    "latitude": -33.95,
+    "longitude": -71.96,
+    "depth": 33.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1985/03/04",
+    "latitude": -33.84,
+    "longitude": -71.32,
+    "depth": 33.0,
+    "magnitude": 6.1
+  },
+  {
+    "date": "1985/03/04",
+    "latitude": -32.75,
+    "longitude": -71.6,
+    "depth": 33.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1985/03/05",
+    "latitude": -34.24,
+    "longitude": -71.72,
+    "depth": 33.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1985/03/07",
+    "latitude": -33.01,
+    "longitude": -72.14,
+    "depth": 33.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1985/03/12",
+    "latitude": -33.1,
+    "longitude": -72.16,
+    "depth": 33.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1985/03/17",
+    "latitude": -32.66,
+    "longitude": -71.56,
+    "depth": 33.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1985/03/19",
+    "latitude": -33.28,
+    "longitude": -71.76,
+    "depth": 33.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1985/03/23",
+    "latitude": -34.28,
+    "longitude": -72.11,
+    "depth": 33.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1985/03/23",
+    "latitude": -33.3,
+    "longitude": -72.22,
+    "depth": 33.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1985/03/24",
+    "latitude": -34.35,
+    "longitude": -72.13,
+    "depth": 33.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1985/03/25",
+    "latitude": -34.34,
+    "longitude": -72.28,
+    "depth": 33.0,
+    "magnitude": 6.1
+  },
+  {
+    "date": "1985/03/26",
+    "latitude": -15.16,
+    "longitude": -71.68,
+    "depth": 126.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1985/03/30",
+    "latitude": -45.46,
+    "longitude": -76.4,
+    "depth": 33.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1985/04/02",
+    "latitude": -28.77,
+    "longitude": -68.97,
+    "depth": 94.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1985/04/03",
+    "latitude": -32.62,
+    "longitude": -71.61,
+    "depth": 33.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1985/04/09",
+    "latitude": -34.17,
+    "longitude": -71.54,
+    "depth": 33.0,
+    "magnitude": 6.3
+  },
+  {
+    "date": "1985/04/15",
+    "latitude": -33.53,
+    "longitude": -72.02,
+    "depth": 33.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1985/04/28",
+    "latitude": -33.07,
+    "longitude": -71.49,
+    "depth": 60.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1985/04/28",
+    "latitude": -39.7,
+    "longitude": -75.61,
+    "depth": 33.0,
+    "magnitude": 6.0
+  },
+  {
+    "date": "1985/05/17",
+    "latitude": -34.28,
+    "longitude": -72.46,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1985/05/18",
+    "latitude": -19.2,
+    "longitude": -69.12,
+    "depth": 111.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1985/05/19",
+    "latitude": -33.88,
+    "longitude": -72.3,
+    "depth": 33.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1985/05/19",
+    "latitude": -30.24,
+    "longitude": -71.28,
+    "depth": 39.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1985/06/02",
+    "latitude": -37.8,
+    "longitude": -73.59,
+    "depth": 33.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1985/06/09",
+    "latitude": -33.25,
+    "longitude": -71.97,
+    "depth": 33.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1985/06/10",
+    "latitude": -28.11,
+    "longitude": -67.19,
+    "depth": 180.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1985/06/11",
+    "latitude": -32.48,
+    "longitude": -71.68,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1985/06/14",
+    "latitude": -40.74,
+    "longitude": -74.92,
+    "depth": 33.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1985/06/23",
+    "latitude": -24.06,
+    "longitude": -67.1,
+    "depth": 178.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1985/07/05",
+    "latitude": -33.38,
+    "longitude": -72.17,
+    "depth": 33.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1985/07/06",
+    "latitude": -33.36,
+    "longitude": -72.12,
+    "depth": 43.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1985/07/07",
+    "latitude": -32.88,
+    "longitude": -72.0,
+    "depth": 32.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1985/07/11",
+    "latitude": -32.93,
+    "longitude": -72.0,
+    "depth": 33.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1985/07/17",
+    "latitude": -32.65,
+    "longitude": -71.42,
+    "depth": 50.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1985/08/04",
+    "latitude": -44.89,
+    "longitude": -75.45,
+    "depth": 23.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1985/08/12",
+    "latitude": -38.42,
+    "longitude": -73.49,
+    "depth": 33.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1985/08/14",
+    "latitude": -15.1,
+    "longitude": -75.56,
+    "depth": 33.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1985/08/19",
+    "latitude": -15.04,
+    "longitude": -75.6,
+    "depth": 33.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1985/08/20",
+    "latitude": -33.75,
+    "longitude": -72.19,
+    "depth": 33.0,
+    "magnitude": 4.7
+  },
+  {
+    "date": "1985/08/27",
+    "latitude": -21.46,
+    "longitude": -67.45,
+    "depth": 197.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1985/10/08",
+    "latitude": -23.05,
+    "longitude": -66.43,
+    "depth": 222.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1985/10/24",
+    "latitude": -31.41,
+    "longitude": -68.64,
+    "depth": 111.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1985/11/06",
+    "latitude": -40.62,
+    "longitude": -74.87,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1985/11/09",
+    "latitude": -27.85,
+    "longitude": -66.64,
+    "depth": 148.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1986/01/08",
+    "latitude": -35.93,
+    "longitude": -71.24,
+    "depth": 89.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1986/01/26",
+    "latitude": -27.12,
+    "longitude": -70.87,
+    "depth": 30.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1986/02/09",
+    "latitude": -36.13,
+    "longitude": -71.27,
+    "depth": 86.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1986/02/20",
+    "latitude": -21.15,
+    "longitude": -70.11,
+    "depth": 33.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1986/03/12",
+    "latitude": -24.13,
+    "longitude": -66.82,
+    "depth": 207.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1986/03/15",
+    "latitude": -19.16,
+    "longitude": -67.46,
+    "depth": 213.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1986/03/23",
+    "latitude": -26.7,
+    "longitude": -70.78,
+    "depth": 62.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1986/03/26",
+    "latitude": -34.1,
+    "longitude": -72.1,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1986/04/09",
+    "latitude": -22.96,
+    "longitude": -66.67,
+    "depth": 199.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1986/04/30",
+    "latitude": -18.35,
+    "longitude": -69.7,
+    "depth": 116.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1986/05/09",
+    "latitude": -17.11,
+    "longitude": -65.67,
+    "depth": 30.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1986/05/10",
+    "latitude": -23.61,
+    "longitude": -67.7,
+    "depth": 123.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1986/06/19",
+    "latitude": -16.89,
+    "longitude": -65.46,
+    "depth": 56.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1986/07/28",
+    "latitude": -33.38,
+    "longitude": -72.13,
+    "depth": 32.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1986/08/11",
+    "latitude": -30.94,
+    "longitude": -67.64,
+    "depth": 33.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1986/09/05",
+    "latitude": -37.05,
+    "longitude": -71.76,
+    "depth": 94.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1986/09/12",
+    "latitude": -22.52,
+    "longitude": -70.2,
+    "depth": 77.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1986/10/24",
+    "latitude": -25.41,
+    "longitude": -70.15,
+    "depth": 50.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1986/11/28",
+    "latitude": -45.12,
+    "longitude": -76.67,
+    "depth": 33.0,
+    "magnitude": 4.6
+  },
+  {
+    "date": "1986/12/25",
+    "latitude": -44.46,
+    "longitude": -78.84,
+    "depth": 10.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1987/01/27",
+    "latitude": -32.13,
+    "longitude": -72.04,
+    "depth": 31.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1987/01/29",
+    "latitude": -29.73,
+    "longitude": -71.08,
+    "depth": 66.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1987/02/03",
+    "latitude": -37.78,
+    "longitude": -72.87,
+    "depth": 32.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1987/02/14",
+    "latitude": -45.71,
+    "longitude": -75.99,
+    "depth": 10.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1987/02/25",
+    "latitude": -27.94,
+    "longitude": -67.06,
+    "depth": 171.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1987/03/04",
+    "latitude": -20.03,
+    "longitude": -68.93,
+    "depth": 114.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1987/03/05",
+    "latitude": -24.49,
+    "longitude": -70.17,
+    "depth": 27.0,
+    "magnitude": 6.5
+  },
+  {
+    "date": "1987/03/05",
+    "latitude": -24.57,
+    "longitude": -70.58,
+    "depth": 33.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1987/03/06",
+    "latitude": -24.23,
+    "longitude": -70.1,
+    "depth": 41.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1987/03/06",
+    "latitude": -24.2,
+    "longitude": -70.07,
+    "depth": 45.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1987/03/08",
+    "latitude": -20.53,
+    "longitude": -70.46,
+    "depth": 31.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1987/03/10",
+    "latitude": -18.53,
+    "longitude": -72.15,
+    "depth": 38.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1987/03/10",
+    "latitude": -18.22,
+    "longitude": -72.13,
+    "depth": 54.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1987/03/12",
+    "latitude": -18.45,
+    "longitude": -72.24,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1987/03/13",
+    "latitude": -15.64,
+    "longitude": -74.3,
+    "depth": 65.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1987/03/15",
+    "latitude": -24.3,
+    "longitude": -70.55,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1987/03/22",
+    "latitude": -24.08,
+    "longitude": -70.08,
+    "depth": 42.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1987/03/23",
+    "latitude": -34.07,
+    "longitude": -72.23,
+    "depth": 33.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1987/04/01",
+    "latitude": -22.93,
+    "longitude": -66.23,
+    "depth": 224.0,
+    "magnitude": 6.2
+  },
+  {
+    "date": "1987/05/10",
+    "latitude": -30.91,
+    "longitude": -65.42,
+    "depth": 160.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1987/05/12",
+    "latitude": -21.79,
+    "longitude": -68.32,
+    "depth": 121.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1987/05/19",
+    "latitude": -30.33,
+    "longitude": -71.59,
+    "depth": 39.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1987/05/23",
+    "latitude": -20.19,
+    "longitude": -70.71,
+    "depth": 41.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1987/06/01",
+    "latitude": -22.27,
+    "longitude": -68.51,
+    "depth": 103.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1987/06/11",
+    "latitude": -20.51,
+    "longitude": -70.61,
+    "depth": 33.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1987/06/14",
+    "latitude": -58.3,
+    "longitude": -65.6,
+    "depth": 10.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1987/06/19",
+    "latitude": -21.37,
+    "longitude": -68.38,
+    "depth": 119.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1987/06/21",
+    "latitude": -57.36,
+    "longitude": -66.86,
+    "depth": 33.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1987/07/09",
+    "latitude": -20.48,
+    "longitude": -68.74,
+    "depth": 64.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1987/07/13",
+    "latitude": -15.23,
+    "longitude": -69.95,
+    "depth": 198.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1987/07/17",
+    "latitude": -15.48,
+    "longitude": -74.04,
+    "depth": 84.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1987/07/19",
+    "latitude": -17.37,
+    "longitude": -70.41,
+    "depth": 109.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1987/07/29",
+    "latitude": -28.87,
+    "longitude": -67.17,
+    "depth": 141.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1987/08/04",
+    "latitude": -40.46,
+    "longitude": -73.1,
+    "depth": 38.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1987/08/08",
+    "latitude": -19.19,
+    "longitude": -70.14,
+    "depth": 82.0,
+    "magnitude": 6.4
+  },
+  {
+    "date": "1987/08/13",
+    "latitude": -17.83,
+    "longitude": -71.08,
+    "depth": 74.0,
+    "magnitude": 6.1
+  },
+  {
+    "date": "1987/08/15",
+    "latitude": -23.1,
+    "longitude": -68.57,
+    "depth": 104.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1987/08/15",
+    "latitude": -28.15,
+    "longitude": -70.89,
+    "depth": 32.0,
+    "magnitude": 6.3
+  },
+  {
+    "date": "1987/08/19",
+    "latitude": -24.13,
+    "longitude": -66.89,
+    "depth": 137.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1987/08/24",
+    "latitude": -20.15,
+    "longitude": -70.58,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1987/09/01",
+    "latitude": -23.19,
+    "longitude": -66.52,
+    "depth": 218.0,
+    "magnitude": 6.0
+  },
+  {
+    "date": "1987/09/11",
+    "latitude": -22.32,
+    "longitude": -68.36,
+    "depth": 128.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1987/09/11",
+    "latitude": -31.46,
+    "longitude": -70.73,
+    "depth": 95.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1987/09/13",
+    "latitude": -34.19,
+    "longitude": -69.97,
+    "depth": 10.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1987/09/18",
+    "latitude": -24.41,
+    "longitude": -69.1,
+    "depth": 71.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1987/10/03",
+    "latitude": -18.22,
+    "longitude": -69.31,
+    "depth": 119.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1987/10/07",
+    "latitude": -23.07,
+    "longitude": -68.12,
+    "depth": 117.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1987/10/21",
+    "latitude": -21.14,
+    "longitude": -69.69,
+    "depth": 76.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1987/10/31",
+    "latitude": -25.88,
+    "longitude": -69.8,
+    "depth": 66.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1987/11/09",
+    "latitude": -22.07,
+    "longitude": -69.47,
+    "depth": 62.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1987/11/18",
+    "latitude": -26.28,
+    "longitude": -70.5,
+    "depth": 41.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1987/11/29",
+    "latitude": -45.78,
+    "longitude": -76.44,
+    "depth": 33.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1987/12/03",
+    "latitude": -21.4,
+    "longitude": -68.26,
+    "depth": 60.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1987/12/28",
+    "latitude": -28.08,
+    "longitude": -70.61,
+    "depth": 52.0,
+    "magnitude": 6.0
+  },
+  {
+    "date": "1987/12/30",
+    "latitude": -35.03,
+    "longitude": -70.81,
+    "depth": 89.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1988/01/19",
+    "latitude": -24.75,
+    "longitude": -70.6,
+    "depth": 21.0,
+    "magnitude": 6.3
+  },
+  {
+    "date": "1988/01/20",
+    "latitude": -24.7,
+    "longitude": -70.67,
+    "depth": 33.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1988/02/01",
+    "latitude": -24.51,
+    "longitude": -70.23,
+    "depth": 79.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1988/02/05",
+    "latitude": -24.77,
+    "longitude": -70.37,
+    "depth": 33.0,
+    "magnitude": 6.2
+  },
+  {
+    "date": "1988/02/05",
+    "latitude": -24.9,
+    "longitude": -70.5,
+    "depth": 33.0,
+    "magnitude": 6.0
+  },
+  {
+    "date": "1988/02/06",
+    "latitude": -20.17,
+    "longitude": -68.51,
+    "depth": 133.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1988/02/06",
+    "latitude": -18.04,
+    "longitude": -66.96,
+    "depth": 285.0,
+    "magnitude": 6.0
+  },
+  {
+    "date": "1988/02/08",
+    "latitude": -24.76,
+    "longitude": -70.38,
+    "depth": 41.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1988/02/15",
+    "latitude": -25.22,
+    "longitude": -70.76,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1988/02/18",
+    "latitude": -23.68,
+    "longitude": -67.71,
+    "depth": 112.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1988/02/22",
+    "latitude": -20.93,
+    "longitude": -69.8,
+    "depth": 71.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1988/02/26",
+    "latitude": -18.1,
+    "longitude": -69.67,
+    "depth": 141.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1988/03/09",
+    "latitude": -17.35,
+    "longitude": -74.21,
+    "depth": 33.0,
+    "magnitude": 6.1
+  },
+  {
+    "date": "1988/03/13",
+    "latitude": -33.67,
+    "longitude": -72.27,
+    "depth": 42.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1988/03/30",
+    "latitude": -24.91,
+    "longitude": -70.41,
+    "depth": 37.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1988/04/12",
+    "latitude": -17.32,
+    "longitude": -72.4,
+    "depth": 54.0,
+    "magnitude": 6.1
+  },
+  {
+    "date": "1988/04/13",
+    "latitude": -17.33,
+    "longitude": -72.57,
+    "depth": 33.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1988/04/13",
+    "latitude": -17.51,
+    "longitude": -72.49,
+    "depth": 53.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1988/04/17",
+    "latitude": -17.46,
+    "longitude": -72.44,
+    "depth": 42.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1988/05/05",
+    "latitude": -29.32,
+    "longitude": -71.46,
+    "depth": 33.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1988/05/20",
+    "latitude": -17.54,
+    "longitude": -69.44,
+    "depth": 126.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1988/05/21",
+    "latitude": -32.89,
+    "longitude": -71.75,
+    "depth": 42.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1988/05/22",
+    "latitude": -17.36,
+    "longitude": -69.39,
+    "depth": 170.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1988/05/23",
+    "latitude": -28.48,
+    "longitude": -68.65,
+    "depth": 117.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1988/06/30",
+    "latitude": -23.71,
+    "longitude": -67.41,
+    "depth": 142.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1988/06/30",
+    "latitude": -23.87,
+    "longitude": -67.05,
+    "depth": 155.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1988/07/04",
+    "latitude": -17.66,
+    "longitude": -71.71,
+    "depth": 33.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1988/07/28",
+    "latitude": -22.36,
+    "longitude": -65.81,
+    "depth": 286.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1988/08/14",
+    "latitude": -21.88,
+    "longitude": -70.07,
+    "depth": 72.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1988/08/14",
+    "latitude": -27.3,
+    "longitude": -71.03,
+    "depth": 39.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1988/08/17",
+    "latitude": -27.17,
+    "longitude": -71.06,
+    "depth": 31.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1988/08/17",
+    "latitude": -27.01,
+    "longitude": -70.97,
+    "depth": 39.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1988/08/17",
+    "latitude": -27.24,
+    "longitude": -71.06,
+    "depth": 37.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1988/08/17",
+    "latitude": -27.08,
+    "longitude": -71.07,
+    "depth": 31.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1988/09/14",
+    "latitude": -23.44,
+    "longitude": -67.99,
+    "depth": 124.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1988/09/30",
+    "latitude": -19.65,
+    "longitude": -69.05,
+    "depth": 112.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1988/10/02",
+    "latitude": -22.79,
+    "longitude": -66.24,
+    "depth": 237.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1988/10/14",
+    "latitude": -23.23,
+    "longitude": -68.21,
+    "depth": 98.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1988/10/31",
+    "latitude": -23.34,
+    "longitude": -66.6,
+    "depth": 198.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1988/11/14",
+    "latitude": -32.58,
+    "longitude": -71.76,
+    "depth": 50.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1988/11/28",
+    "latitude": -21.32,
+    "longitude": -68.37,
+    "depth": 122.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1988/12/16",
+    "latitude": -24.14,
+    "longitude": -66.95,
+    "depth": 176.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1988/12/24",
+    "latitude": -23.67,
+    "longitude": -66.78,
+    "depth": 220.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1989/01/07",
+    "latitude": -23.29,
+    "longitude": -68.45,
+    "depth": 123.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1989/01/15",
+    "latitude": -31.69,
+    "longitude": -71.72,
+    "depth": 47.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1989/02/07",
+    "latitude": -22.1,
+    "longitude": -67.2,
+    "depth": 180.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1989/02/09",
+    "latitude": -22.57,
+    "longitude": -66.01,
+    "depth": 248.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1989/02/17",
+    "latitude": -17.51,
+    "longitude": -72.61,
+    "depth": 48.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1989/02/21",
+    "latitude": -44.54,
+    "longitude": -79.07,
+    "depth": 33.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1989/02/24",
+    "latitude": -38.42,
+    "longitude": -70.98,
+    "depth": 33.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1989/03/29",
+    "latitude": -18.35,
+    "longitude": -72.38,
+    "depth": 42.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1989/04/01",
+    "latitude": -32.87,
+    "longitude": -70.06,
+    "depth": 100.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1989/04/05",
+    "latitude": -20.82,
+    "longitude": -69.43,
+    "depth": 115.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1989/04/13",
+    "latitude": -39.56,
+    "longitude": -75.03,
+    "depth": 33.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1989/04/17",
+    "latitude": -30.58,
+    "longitude": -71.69,
+    "depth": 33.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1989/05/19",
+    "latitude": -24.86,
+    "longitude": -70.07,
+    "depth": 52.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1989/05/29",
+    "latitude": -23.84,
+    "longitude": -70.3,
+    "depth": 43.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1989/06/17",
+    "latitude": -40.47,
+    "longitude": -74.7,
+    "depth": 33.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1989/06/19",
+    "latitude": -22.35,
+    "longitude": -67.73,
+    "depth": 185.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1989/06/24",
+    "latitude": -28.34,
+    "longitude": -66.37,
+    "depth": 21.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1989/08/08",
+    "latitude": -22.74,
+    "longitude": -68.57,
+    "depth": 104.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1989/09/14",
+    "latitude": -26.1,
+    "longitude": -70.7,
+    "depth": 33.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1989/10/03",
+    "latitude": -24.17,
+    "longitude": -66.9,
+    "depth": 167.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1989/10/23",
+    "latitude": -27.88,
+    "longitude": -66.79,
+    "depth": 146.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1989/11/01",
+    "latitude": -21.25,
+    "longitude": -68.1,
+    "depth": 143.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1989/11/02",
+    "latitude": -22.19,
+    "longitude": -68.49,
+    "depth": 114.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1989/11/08",
+    "latitude": -23.73,
+    "longitude": -67.89,
+    "depth": 135.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1989/11/10",
+    "latitude": -22.75,
+    "longitude": -66.01,
+    "depth": 260.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1989/11/14",
+    "latitude": -27.59,
+    "longitude": -71.15,
+    "depth": 36.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1989/11/29",
+    "latitude": -15.78,
+    "longitude": -73.25,
+    "depth": 74.0,
+    "magnitude": 6.1
+  },
+  {
+    "date": "1989/12/30",
+    "latitude": -26.27,
+    "longitude": -70.58,
+    "depth": 33.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1990/01/05",
+    "latitude": -19.23,
+    "longitude": -69.44,
+    "depth": 111.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1990/01/07",
+    "latitude": -15.91,
+    "longitude": -74.28,
+    "depth": 48.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1990/02/25",
+    "latitude": -18.11,
+    "longitude": -69.3,
+    "depth": 141.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1990/04/02",
+    "latitude": -32.57,
+    "longitude": -71.97,
+    "depth": 39.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1990/04/04",
+    "latitude": -16.27,
+    "longitude": -73.3,
+    "depth": 56.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1990/04/21",
+    "latitude": -36.95,
+    "longitude": -73.25,
+    "depth": 30.0,
+    "magnitude": 6.0
+  },
+  {
+    "date": "1990/04/22",
+    "latitude": -38.01,
+    "longitude": -73.36,
+    "depth": 33.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1990/05/14",
+    "latitude": -35.84,
+    "longitude": -71.38,
+    "depth": 81.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1990/05/17",
+    "latitude": -18.17,
+    "longitude": -69.82,
+    "depth": 109.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1990/06/08",
+    "latitude": -17.55,
+    "longitude": -71.85,
+    "depth": 26.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1990/06/18",
+    "latitude": -21.72,
+    "longitude": -68.41,
+    "depth": 113.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1990/06/22",
+    "latitude": -19.64,
+    "longitude": -69.16,
+    "depth": 103.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1990/06/29",
+    "latitude": -28.35,
+    "longitude": -68.32,
+    "depth": 123.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1990/08/02",
+    "latitude": -31.61,
+    "longitude": -71.58,
+    "depth": 41.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1990/08/15",
+    "latitude": -18.81,
+    "longitude": -69.38,
+    "depth": 120.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1990/08/28",
+    "latitude": -19.83,
+    "longitude": -70.09,
+    "depth": 85.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1990/09/04",
+    "latitude": -31.2,
+    "longitude": -68.96,
+    "depth": 112.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1990/09/07",
+    "latitude": -24.28,
+    "longitude": -67.0,
+    "depth": 170.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1990/10/10",
+    "latitude": -19.34,
+    "longitude": -66.55,
+    "depth": 271.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1990/10/11",
+    "latitude": -33.7,
+    "longitude": -72.06,
+    "depth": 30.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1990/10/31",
+    "latitude": -26.77,
+    "longitude": -70.41,
+    "depth": 60.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1990/11/04",
+    "latitude": -15.7,
+    "longitude": -72.7,
+    "depth": 114.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1990/12/02",
+    "latitude": -21.68,
+    "longitude": -68.3,
+    "depth": 121.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1990/12/21",
+    "latitude": -32.66,
+    "longitude": -69.59,
+    "depth": 109.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1990/12/27",
+    "latitude": -22.77,
+    "longitude": -70.4,
+    "depth": 63.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1991/03/06",
+    "latitude": -57.16,
+    "longitude": -67.06,
+    "depth": 10.0,
+    "magnitude": 0.0
+  },
+  {
+    "date": "1991/03/15",
+    "latitude": -29.0,
+    "longitude": -68.68,
+    "depth": 72.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1991/05/11",
+    "latitude": -21.92,
+    "longitude": -67.25,
+    "depth": 193.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1991/05/18",
+    "latitude": -40.12,
+    "longitude": -74.86,
+    "depth": 33.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1991/05/24",
+    "latitude": -16.48,
+    "longitude": -70.72,
+    "depth": 125.0,
+    "magnitude": 6.3
+  },
+  {
+    "date": "1991/05/30",
+    "latitude": -23.62,
+    "longitude": -68.02,
+    "depth": 120.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1991/06/03",
+    "latitude": -39.98,
+    "longitude": -74.64,
+    "depth": 33.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1991/07/01",
+    "latitude": -15.79,
+    "longitude": -75.08,
+    "depth": 19.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1991/07/09",
+    "latitude": -20.79,
+    "longitude": -68.96,
+    "depth": 101.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1991/07/23",
+    "latitude": -15.68,
+    "longitude": -71.58,
+    "depth": 5.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1991/07/24",
+    "latitude": -16.14,
+    "longitude": -73.83,
+    "depth": 56.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1991/08/18",
+    "latitude": -31.96,
+    "longitude": -71.43,
+    "depth": 46.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1991/08/27",
+    "latitude": -16.31,
+    "longitude": -73.39,
+    "depth": 74.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1991/08/27",
+    "latitude": -21.69,
+    "longitude": -68.54,
+    "depth": 116.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1991/09/15",
+    "latitude": -31.48,
+    "longitude": -69.92,
+    "depth": 112.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1991/10/27",
+    "latitude": -22.36,
+    "longitude": -67.59,
+    "depth": 178.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1991/12/01",
+    "latitude": -32.02,
+    "longitude": -69.46,
+    "depth": 102.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1991/12/02",
+    "latitude": -15.89,
+    "longitude": -69.42,
+    "depth": 233.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1991/12/15",
+    "latitude": -17.51,
+    "longitude": -70.54,
+    "depth": 102.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1992/01/27",
+    "latitude": -21.49,
+    "longitude": -68.0,
+    "depth": 146.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1992/02/28",
+    "latitude": -24.27,
+    "longitude": -69.91,
+    "depth": 57.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1992/04/10",
+    "latitude": -33.96,
+    "longitude": -71.96,
+    "depth": 32.0,
+    "magnitude": 4.7
+  },
+  {
+    "date": "1992/04/16",
+    "latitude": -20.11,
+    "longitude": -68.53,
+    "depth": 122.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1992/05/03",
+    "latitude": -32.28,
+    "longitude": -71.48,
+    "depth": 61.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1992/05/06",
+    "latitude": -17.32,
+    "longitude": -72.35,
+    "depth": 33.0,
+    "magnitude": 4.7
+  },
+  {
+    "date": "1992/05/09",
+    "latitude": -18.34,
+    "longitude": -69.43,
+    "depth": 122.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1992/05/18",
+    "latitude": -33.61,
+    "longitude": -72.03,
+    "depth": 28.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1992/05/22",
+    "latitude": -33.7,
+    "longitude": -72.04,
+    "depth": 33.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1992/06/01",
+    "latitude": -17.55,
+    "longitude": -70.82,
+    "depth": 81.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1992/06/20",
+    "latitude": -19.17,
+    "longitude": -66.77,
+    "depth": 253.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1992/06/21",
+    "latitude": -26.49,
+    "longitude": -70.65,
+    "depth": 39.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1992/07/04",
+    "latitude": -20.91,
+    "longitude": -68.83,
+    "depth": 103.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1992/07/30",
+    "latitude": -50.37,
+    "longitude": -72.3,
+    "depth": 10.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1992/08/04",
+    "latitude": -20.54,
+    "longitude": -71.0,
+    "depth": 22.0,
+    "magnitude": 4.8
+  },
+  {
+    "date": "1992/08/14",
+    "latitude": -30.81,
+    "longitude": -65.21,
+    "depth": 180.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1992/08/17",
+    "latitude": -20.26,
+    "longitude": -68.78,
+    "depth": 110.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1992/08/20",
+    "latitude": -26.26,
+    "longitude": -69.12,
+    "depth": 105.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1992/10/01",
+    "latitude": -39.04,
+    "longitude": -74.96,
+    "depth": 29.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1992/10/29",
+    "latitude": -29.26,
+    "longitude": -71.1,
+    "depth": 46.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1992/11/01",
+    "latitude": -28.98,
+    "longitude": -69.52,
+    "depth": 110.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1992/11/03",
+    "latitude": -23.35,
+    "longitude": -70.0,
+    "depth": 31.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1992/11/04",
+    "latitude": -31.63,
+    "longitude": -71.55,
+    "depth": 37.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1992/11/08",
+    "latitude": -23.52,
+    "longitude": -70.35,
+    "depth": 31.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1992/11/17",
+    "latitude": -30.58,
+    "longitude": -71.13,
+    "depth": 54.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1992/11/20",
+    "latitude": -23.06,
+    "longitude": -66.28,
+    "depth": 254.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1992/11/28",
+    "latitude": -31.4,
+    "longitude": -71.94,
+    "depth": 39.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1992/12/23",
+    "latitude": -20.1,
+    "longitude": -68.86,
+    "depth": 105.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1992/12/29",
+    "latitude": -31.69,
+    "longitude": -67.31,
+    "depth": 131.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1993/01/01",
+    "latitude": -31.59,
+    "longitude": -71.54,
+    "depth": 27.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1993/02/24",
+    "latitude": -24.9,
+    "longitude": -68.38,
+    "depth": 117.0,
+    "magnitude": 6.0
+  },
+  {
+    "date": "1993/03/15",
+    "latitude": -26.79,
+    "longitude": -70.91,
+    "depth": 33.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1993/03/17",
+    "latitude": -37.58,
+    "longitude": -74.91,
+    "depth": 30.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1993/03/19",
+    "latitude": -26.91,
+    "longitude": -71.1,
+    "depth": 34.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1993/03/19",
+    "latitude": -26.66,
+    "longitude": -70.89,
+    "depth": 21.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1993/03/30",
+    "latitude": -22.01,
+    "longitude": -67.38,
+    "depth": 184.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1993/04/10",
+    "latitude": -22.44,
+    "longitude": -68.94,
+    "depth": 116.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1993/05/01",
+    "latitude": -15.48,
+    "longitude": -69.27,
+    "depth": 260.0,
+    "magnitude": 4.7
+  },
+  {
+    "date": "1993/05/05",
+    "latitude": -19.57,
+    "longitude": -69.03,
+    "depth": 135.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1993/05/11",
+    "latitude": -24.88,
+    "longitude": -70.43,
+    "depth": 47.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1993/05/24",
+    "latitude": -23.22,
+    "longitude": -66.64,
+    "depth": 238.0,
+    "magnitude": 6.2
+  },
+  {
+    "date": "1993/06/01",
+    "latitude": -45.74,
+    "longitude": -77.26,
+    "depth": 10.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1993/06/08",
+    "latitude": -31.59,
+    "longitude": -69.22,
+    "depth": 113.0,
+    "magnitude": 6.4
+  },
+  {
+    "date": "1993/07/11",
+    "latitude": -25.35,
+    "longitude": -70.18,
+    "depth": 33.0,
+    "magnitude": 6.2
+  },
+  {
+    "date": "1993/07/16",
+    "latitude": -33.13,
+    "longitude": -71.95,
+    "depth": 31.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1993/07/17",
+    "latitude": -29.93,
+    "longitude": -71.5,
+    "depth": 33.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1993/10/19",
+    "latitude": -22.39,
+    "longitude": -66.0,
+    "depth": 278.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1993/10/30",
+    "latitude": -31.75,
+    "longitude": -68.21,
+    "depth": 109.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1993/11/14",
+    "latitude": -22.66,
+    "longitude": -68.62,
+    "depth": 110.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1993/12/04",
+    "latitude": -33.83,
+    "longitude": -71.86,
+    "depth": 53.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1994/02/11",
+    "latitude": -18.45,
+    "longitude": -71.08,
+    "depth": 73.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1994/02/17",
+    "latitude": -23.17,
+    "longitude": -66.58,
+    "depth": 223.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1994/04/16",
+    "latitude": -31.61,
+    "longitude": -71.34,
+    "depth": 35.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1994/04/19",
+    "latitude": -22.81,
+    "longitude": -69.75,
+    "depth": 49.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1994/04/20",
+    "latitude": -15.03,
+    "longitude": -70.53,
+    "depth": 208.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1994/04/28",
+    "latitude": -39.37,
+    "longitude": -74.65,
+    "depth": 27.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1994/05/10",
+    "latitude": -19.72,
+    "longitude": -69.85,
+    "depth": 53.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1994/05/22",
+    "latitude": -24.26,
+    "longitude": -66.91,
+    "depth": 192.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1994/05/24",
+    "latitude": -15.55,
+    "longitude": -74.77,
+    "depth": 37.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1994/06/16",
+    "latitude": -32.65,
+    "longitude": -71.89,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1994/06/16",
+    "latitude": -15.18,
+    "longitude": -70.34,
+    "depth": 225.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1994/06/27",
+    "latitude": -20.52,
+    "longitude": -68.65,
+    "depth": 109.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1994/08/02",
+    "latitude": -24.27,
+    "longitude": -66.93,
+    "depth": 169.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1994/08/14",
+    "latitude": -29.78,
+    "longitude": -71.59,
+    "depth": 36.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1994/09/12",
+    "latitude": -31.13,
+    "longitude": -71.64,
+    "depth": 53.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1994/09/14",
+    "latitude": -31.24,
+    "longitude": -71.62,
+    "depth": 38.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1994/09/17",
+    "latitude": -32.19,
+    "longitude": -71.67,
+    "depth": 28.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1994/09/22",
+    "latitude": -32.22,
+    "longitude": -71.86,
+    "depth": 27.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1994/10/11",
+    "latitude": -32.11,
+    "longitude": -71.44,
+    "depth": 51.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1994/10/20",
+    "latitude": -39.19,
+    "longitude": -70.8,
+    "depth": 164.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1994/11/11",
+    "latitude": -15.57,
+    "longitude": -72.56,
+    "depth": 121.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1994/11/22",
+    "latitude": -23.19,
+    "longitude": -69.34,
+    "depth": 67.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1994/12/06",
+    "latitude": -15.33,
+    "longitude": -75.36,
+    "depth": 40.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1994/12/07",
+    "latitude": -23.46,
+    "longitude": -66.74,
+    "depth": 243.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1994/12/10",
+    "latitude": -23.58,
+    "longitude": -70.52,
+    "depth": 37.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1994/12/12",
+    "latitude": -17.5,
+    "longitude": -69.65,
+    "depth": 151.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1994/12/13",
+    "latitude": -24.14,
+    "longitude": -67.82,
+    "depth": 106.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1994/12/26",
+    "latitude": -15.63,
+    "longitude": -71.71,
+    "depth": 33.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1995/01/03",
+    "latitude": -57.7,
+    "longitude": -65.96,
+    "depth": 33.0,
+    "magnitude": 6.1
+  },
+  {
+    "date": "1995/02/10",
+    "latitude": -19.77,
+    "longitude": -68.54,
+    "depth": 164.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1995/02/14",
+    "latitude": -23.29,
+    "longitude": -67.7,
+    "depth": 156.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1995/02/22",
+    "latitude": -15.77,
+    "longitude": -73.22,
+    "depth": 108.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1995/03/23",
+    "latitude": -36.26,
+    "longitude": -72.94,
+    "depth": 43.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1995/03/25",
+    "latitude": -15.99,
+    "longitude": -74.89,
+    "depth": 33.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1995/04/07",
+    "latitude": -25.6,
+    "longitude": -70.27,
+    "depth": 64.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1995/04/14",
+    "latitude": -15.24,
+    "longitude": -70.42,
+    "depth": 208.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1995/04/28",
+    "latitude": -31.64,
+    "longitude": -72.01,
+    "depth": 33.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1995/05/19",
+    "latitude": -23.81,
+    "longitude": -66.5,
+    "depth": 230.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1995/05/28",
+    "latitude": -29.05,
+    "longitude": -71.1,
+    "depth": 42.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1995/06/02",
+    "latitude": -31.76,
+    "longitude": -71.3,
+    "depth": 70.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1995/06/09",
+    "latitude": -21.66,
+    "longitude": -68.03,
+    "depth": 132.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1995/06/14",
+    "latitude": -24.75,
+    "longitude": -69.98,
+    "depth": 49.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1995/07/01",
+    "latitude": -33.98,
+    "longitude": -72.35,
+    "depth": 33.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1995/07/30",
+    "latitude": -23.36,
+    "longitude": -70.31,
+    "depth": 47.0,
+    "magnitude": 6.6
+  },
+  {
+    "date": "1995/07/30",
+    "latitude": -23.32,
+    "longitude": -70.59,
+    "depth": 33.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1995/08/01",
+    "latitude": -24.91,
+    "longitude": -70.89,
+    "depth": 30.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1995/08/01",
+    "latitude": -24.1,
+    "longitude": -70.78,
+    "depth": 30.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1995/08/02",
+    "latitude": -23.15,
+    "longitude": -70.58,
+    "depth": 33.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1995/08/02",
+    "latitude": -23.1,
+    "longitude": -70.4,
+    "depth": 33.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1995/08/02",
+    "latitude": -23.34,
+    "longitude": -70.48,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1995/08/03",
+    "latitude": -23.13,
+    "longitude": -70.6,
+    "depth": 33.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1995/08/03",
+    "latitude": -28.35,
+    "longitude": -69.2,
+    "depth": 104.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1995/08/03",
+    "latitude": -22.91,
+    "longitude": -70.47,
+    "depth": 33.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1995/08/03",
+    "latitude": -22.93,
+    "longitude": -70.38,
+    "depth": 33.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1995/08/09",
+    "latitude": -24.46,
+    "longitude": -70.15,
+    "depth": 34.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1995/08/09",
+    "latitude": -23.12,
+    "longitude": -70.18,
+    "depth": 35.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1995/08/10",
+    "latitude": -23.69,
+    "longitude": -70.49,
+    "depth": 33.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1995/08/11",
+    "latitude": -23.37,
+    "longitude": -66.58,
+    "depth": 215.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1995/09/09",
+    "latitude": -20.18,
+    "longitude": -69.28,
+    "depth": 79.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1995/09/17",
+    "latitude": -35.56,
+    "longitude": -74.05,
+    "depth": 33.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1995/09/19",
+    "latitude": -21.23,
+    "longitude": -68.74,
+    "depth": 110.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1995/10/01",
+    "latitude": -31.38,
+    "longitude": -71.27,
+    "depth": 64.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1995/10/03",
+    "latitude": -30.74,
+    "longitude": -71.97,
+    "depth": 39.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1995/10/12",
+    "latitude": -22.95,
+    "longitude": -70.2,
+    "depth": 32.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1995/10/16",
+    "latitude": -23.24,
+    "longitude": -70.43,
+    "depth": 28.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1995/10/31",
+    "latitude": -28.96,
+    "longitude": -71.32,
+    "depth": 33.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1995/11/01",
+    "latitude": -28.96,
+    "longitude": -71.5,
+    "depth": 20.0,
+    "magnitude": 6.3
+  },
+  {
+    "date": "1995/11/06",
+    "latitude": -19.14,
+    "longitude": -68.36,
+    "depth": 55.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1995/11/17",
+    "latitude": -45.1,
+    "longitude": -79.33,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1995/11/21",
+    "latitude": -33.27,
+    "longitude": -71.99,
+    "depth": 40.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1995/12/22",
+    "latitude": -15.55,
+    "longitude": -68.96,
+    "depth": 244.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1996/02/19",
+    "latitude": -42.09,
+    "longitude": -75.08,
+    "depth": 33.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1996/02/22",
+    "latitude": -33.69,
+    "longitude": -71.71,
+    "depth": 44.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1996/03/07",
+    "latitude": -23.27,
+    "longitude": -70.29,
+    "depth": 31.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1996/03/11",
+    "latitude": -42.18,
+    "longitude": -71.89,
+    "depth": 126.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1996/04/06",
+    "latitude": -53.45,
+    "longitude": -76.35,
+    "depth": 10.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1996/04/19",
+    "latitude": -23.94,
+    "longitude": -70.09,
+    "depth": 50.0,
+    "magnitude": 6.0
+  },
+  {
+    "date": "1996/04/20",
+    "latitude": -24.07,
+    "longitude": -66.79,
+    "depth": 197.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1996/04/25",
+    "latitude": -30.07,
+    "longitude": -71.21,
+    "depth": 61.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1996/05/07",
+    "latitude": -15.32,
+    "longitude": -70.01,
+    "depth": 242.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1996/05/18",
+    "latitude": -23.95,
+    "longitude": -68.82,
+    "depth": 97.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1996/06/25",
+    "latitude": -24.68,
+    "longitude": -69.83,
+    "depth": 54.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1996/07/03",
+    "latitude": -23.38,
+    "longitude": -70.4,
+    "depth": 33.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1996/08/01",
+    "latitude": -17.81,
+    "longitude": -70.62,
+    "depth": 74.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1996/08/14",
+    "latitude": -42.55,
+    "longitude": -73.59,
+    "depth": 33.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1996/08/15",
+    "latitude": -17.35,
+    "longitude": -71.14,
+    "depth": 58.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1996/08/31",
+    "latitude": -52.99,
+    "longitude": -72.38,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1996/09/08",
+    "latitude": -15.57,
+    "longitude": -73.05,
+    "depth": 98.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1996/09/09",
+    "latitude": -31.9,
+    "longitude": -71.56,
+    "depth": 39.0,
+    "magnitude": 6.0
+  },
+  {
+    "date": "1996/09/21",
+    "latitude": -19.0,
+    "longitude": -67.53,
+    "depth": 224.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1996/10/25",
+    "latitude": -17.38,
+    "longitude": -69.99,
+    "depth": 116.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1996/11/13",
+    "latitude": -15.47,
+    "longitude": -75.41,
+    "depth": 33.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1996/11/14",
+    "latitude": -15.45,
+    "longitude": -75.51,
+    "depth": 33.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1996/11/14",
+    "latitude": -15.32,
+    "longitude": -75.47,
+    "depth": 33.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1996/11/27",
+    "latitude": -15.53,
+    "longitude": -75.45,
+    "depth": 33.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1996/12/01",
+    "latitude": -15.45,
+    "longitude": -75.36,
+    "depth": 33.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1996/12/18",
+    "latitude": -25.12,
+    "longitude": -70.68,
+    "depth": 33.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1997/01/23",
+    "latitude": -22.0,
+    "longitude": -65.72,
+    "depth": 276.0,
+    "magnitude": 6.4
+  },
+  {
+    "date": "1997/02/10",
+    "latitude": -32.93,
+    "longitude": -68.75,
+    "depth": 149.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1997/03/09",
+    "latitude": -29.82,
+    "longitude": -71.15,
+    "depth": 33.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1997/03/10",
+    "latitude": -29.68,
+    "longitude": -71.14,
+    "depth": 33.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1997/03/25",
+    "latitude": -33.48,
+    "longitude": -70.55,
+    "depth": 84.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1997/04/01",
+    "latitude": -18.3,
+    "longitude": -69.53,
+    "depth": 114.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1997/04/01",
+    "latitude": -18.35,
+    "longitude": -69.35,
+    "depth": 116.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1997/04/13",
+    "latitude": -18.37,
+    "longitude": -71.25,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1997/04/20",
+    "latitude": -34.04,
+    "longitude": -69.98,
+    "depth": 105.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1997/05/09",
+    "latitude": -24.32,
+    "longitude": -66.86,
+    "depth": 194.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1997/05/11",
+    "latitude": -24.6,
+    "longitude": -66.93,
+    "depth": 193.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1997/05/17",
+    "latitude": -27.16,
+    "longitude": -69.5,
+    "depth": 106.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1997/05/25",
+    "latitude": -22.89,
+    "longitude": -70.55,
+    "depth": 36.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1997/06/09",
+    "latitude": -31.89,
+    "longitude": -71.63,
+    "depth": 62.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1997/06/19",
+    "latitude": -33.2,
+    "longitude": -70.14,
+    "depth": 106.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1997/07/04",
+    "latitude": -45.53,
+    "longitude": -76.31,
+    "depth": 10.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1997/07/06",
+    "latitude": -30.06,
+    "longitude": -71.87,
+    "depth": 19.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1997/07/06",
+    "latitude": -30.16,
+    "longitude": -71.86,
+    "depth": 33.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1997/07/10",
+    "latitude": -22.73,
+    "longitude": -70.89,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1997/07/11",
+    "latitude": -18.86,
+    "longitude": -69.44,
+    "depth": 106.1,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1997/07/12",
+    "latitude": -21.23,
+    "longitude": -68.15,
+    "depth": 122.9,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1997/07/13",
+    "latitude": -23.63,
+    "longitude": -68.12,
+    "depth": 124.5,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1997/07/19",
+    "latitude": -29.28,
+    "longitude": -71.68,
+    "depth": 26.4,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1997/07/20",
+    "latitude": -22.98,
+    "longitude": -66.3,
+    "depth": 256.1,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1997/07/21",
+    "latitude": -29.97,
+    "longitude": -71.78,
+    "depth": 33.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1997/07/21",
+    "latitude": -30.33,
+    "longitude": -71.92,
+    "depth": 33.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1997/07/22",
+    "latitude": -30.36,
+    "longitude": -71.83,
+    "depth": 33.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1997/07/24",
+    "latitude": -30.58,
+    "longitude": -72.02,
+    "depth": 33.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1997/07/25",
+    "latitude": -30.46,
+    "longitude": -71.91,
+    "depth": 33.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1997/07/25",
+    "latitude": -30.55,
+    "longitude": -72.02,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1997/07/27",
+    "latitude": -30.52,
+    "longitude": -71.86,
+    "depth": 33.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1997/07/29",
+    "latitude": -30.61,
+    "longitude": -72.13,
+    "depth": 33.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1997/08/06",
+    "latitude": -30.67,
+    "longitude": -71.89,
+    "depth": 33.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1997/08/18",
+    "latitude": -29.93,
+    "longitude": -72.01,
+    "depth": 33.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1997/08/29",
+    "latitude": -22.06,
+    "longitude": -68.43,
+    "depth": 117.2,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1997/09/28",
+    "latitude": -22.41,
+    "longitude": -68.45,
+    "depth": 106.8,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1997/10/15",
+    "latitude": -30.93,
+    "longitude": -71.22,
+    "depth": 58.0,
+    "magnitude": 6.8
+  },
+  {
+    "date": "1997/10/26",
+    "latitude": -26.33,
+    "longitude": -70.15,
+    "depth": 57.9,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1997/11/03",
+    "latitude": -30.74,
+    "longitude": -71.22,
+    "depth": 45.0,
+    "magnitude": 6.2
+  },
+  {
+    "date": "1997/11/05",
+    "latitude": -43.76,
+    "longitude": -78.18,
+    "depth": 10.0,
+    "magnitude": 4.5
+  },
+  {
+    "date": "1997/11/09",
+    "latitude": -30.02,
+    "longitude": -71.87,
+    "depth": 28.3,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1997/11/21",
+    "latitude": -15.61,
+    "longitude": -74.46,
+    "depth": 47.3,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1997/12/09",
+    "latitude": -20.24,
+    "longitude": -68.36,
+    "depth": 132.5,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1997/12/18",
+    "latitude": -41.82,
+    "longitude": -73.04,
+    "depth": 47.5,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1998/01/12",
+    "latitude": -24.95,
+    "longitude": -70.01,
+    "depth": 53.2,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1998/01/12",
+    "latitude": -30.99,
+    "longitude": -71.41,
+    "depth": 34.8,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1998/01/14",
+    "latitude": -31.8,
+    "longitude": -68.19,
+    "depth": 112.2,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1998/01/19",
+    "latitude": -44.97,
+    "longitude": -79.49,
+    "depth": 10.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1998/01/26",
+    "latitude": -23.14,
+    "longitude": -66.61,
+    "depth": 199.3,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1998/01/29",
+    "latitude": -15.61,
+    "longitude": -72.1,
+    "depth": 134.1,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1998/01/30",
+    "latitude": -23.91,
+    "longitude": -70.21,
+    "depth": 42.0,
+    "magnitude": 6.3
+  },
+  {
+    "date": "1998/02/06",
+    "latitude": -22.67,
+    "longitude": -70.13,
+    "depth": 57.6,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1998/02/10",
+    "latitude": -16.27,
+    "longitude": -74.05,
+    "depth": 24.7,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1998/03/01",
+    "latitude": -18.31,
+    "longitude": -65.89,
+    "depth": 45.9,
+    "magnitude": 4.8
+  },
+  {
+    "date": "1998/03/04",
+    "latitude": -17.53,
+    "longitude": -69.44,
+    "depth": 132.1,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1998/03/13",
+    "latitude": -22.71,
+    "longitude": -66.12,
+    "depth": 246.7,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1998/03/25",
+    "latitude": -24.34,
+    "longitude": -66.99,
+    "depth": 197.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1998/04/01",
+    "latitude": -40.32,
+    "longitude": -74.87,
+    "depth": 9.0,
+    "magnitude": 6.2
+  },
+  {
+    "date": "1998/04/10",
+    "latitude": -21.21,
+    "longitude": -69.64,
+    "depth": 62.9,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1998/04/12",
+    "latitude": -15.52,
+    "longitude": -71.82,
+    "depth": 33.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1998/05/08",
+    "latitude": -45.69,
+    "longitude": -77.63,
+    "depth": 33.0,
+    "magnitude": 4.6
+  },
+  {
+    "date": "1998/05/09",
+    "latitude": -18.19,
+    "longitude": -71.31,
+    "depth": 72.1,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1998/05/22",
+    "latitude": -17.73,
+    "longitude": -65.43,
+    "depth": 24.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1998/05/24",
+    "latitude": -17.02,
+    "longitude": -72.54,
+    "depth": 33.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1998/05/26",
+    "latitude": -17.83,
+    "longitude": -65.37,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1998/05/29",
+    "latitude": -17.75,
+    "longitude": -65.27,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1998/06/03",
+    "latitude": -23.89,
+    "longitude": -69.88,
+    "depth": 47.7,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1998/06/06",
+    "latitude": -36.56,
+    "longitude": -73.2,
+    "depth": 23.5,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1998/06/07",
+    "latitude": -31.52,
+    "longitude": -67.83,
+    "depth": 113.2,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1998/06/22",
+    "latitude": -27.99,
+    "longitude": -66.7,
+    "depth": 174.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1998/06/25",
+    "latitude": -15.68,
+    "longitude": -75.05,
+    "depth": 33.0,
+    "magnitude": 4.7
+  },
+  {
+    "date": "1998/06/30",
+    "latitude": -23.99,
+    "longitude": -66.57,
+    "depth": 222.6,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1998/07/18",
+    "latitude": -28.31,
+    "longitude": -70.84,
+    "depth": 46.9,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1998/07/29",
+    "latitude": -32.31,
+    "longitude": -71.29,
+    "depth": 51.1,
+    "magnitude": 6.3
+  },
+  {
+    "date": "1998/08/24",
+    "latitude": -31.89,
+    "longitude": -69.45,
+    "depth": 115.3,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1998/08/30",
+    "latitude": -23.93,
+    "longitude": -66.91,
+    "depth": 219.5,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1998/09/03",
+    "latitude": -29.45,
+    "longitude": -71.71,
+    "depth": 27.0,
+    "magnitude": 6.2
+  },
+  {
+    "date": "1998/09/10",
+    "latitude": -20.03,
+    "longitude": -70.38,
+    "depth": 33.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1998/09/11",
+    "latitude": -30.68,
+    "longitude": -71.23,
+    "depth": 33.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1998/09/12",
+    "latitude": -24.51,
+    "longitude": -67.12,
+    "depth": 187.2,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1998/10/08",
+    "latitude": -16.12,
+    "longitude": -71.4,
+    "depth": 136.2,
+    "magnitude": 6.1
+  },
+  {
+    "date": "1998/10/09",
+    "latitude": -47.65,
+    "longitude": -75.59,
+    "depth": 10.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1998/10/10",
+    "latitude": -33.52,
+    "longitude": -72.08,
+    "depth": 33.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1998/10/25",
+    "latitude": -17.97,
+    "longitude": -69.59,
+    "depth": 33.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1998/10/29",
+    "latitude": -32.76,
+    "longitude": -70.48,
+    "depth": 85.5,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1998/11/06",
+    "latitude": -44.43,
+    "longitude": -79.11,
+    "depth": 10.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1998/11/06",
+    "latitude": -21.81,
+    "longitude": -67.16,
+    "depth": 209.9,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1998/11/13",
+    "latitude": -21.57,
+    "longitude": -68.22,
+    "depth": 122.7,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1998/11/23",
+    "latitude": -23.72,
+    "longitude": -70.51,
+    "depth": 33.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1998/11/24",
+    "latitude": -22.62,
+    "longitude": -69.24,
+    "depth": 79.6,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1998/11/27",
+    "latitude": -32.14,
+    "longitude": -69.33,
+    "depth": 126.7,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1998/12/01",
+    "latitude": -17.62,
+    "longitude": -69.3,
+    "depth": 161.1,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1998/12/11",
+    "latitude": -31.27,
+    "longitude": -68.92,
+    "depth": 117.6,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1998/12/14",
+    "latitude": -38.21,
+    "longitude": -71.03,
+    "depth": 138.4,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1998/12/26",
+    "latitude": -40.75,
+    "longitude": -74.85,
+    "depth": 10.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1999/02/05",
+    "latitude": -35.02,
+    "longitude": -70.95,
+    "depth": 86.2,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1999/02/17",
+    "latitude": -21.14,
+    "longitude": -70.04,
+    "depth": 33.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1999/03/02",
+    "latitude": -22.72,
+    "longitude": -68.5,
+    "depth": 110.8,
+    "magnitude": 5.8
+  },
+  {
+    "date": "1999/03/05",
+    "latitude": -20.42,
+    "longitude": -68.9,
+    "depth": 110.9,
+    "magnitude": 5.7
+  },
+  {
+    "date": "1999/03/05",
+    "latitude": -34.67,
+    "longitude": -69.6,
+    "depth": 10.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1999/03/09",
+    "latitude": -27.68,
+    "longitude": -67.29,
+    "depth": 154.9,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1999/03/12",
+    "latitude": -19.29,
+    "longitude": -68.85,
+    "depth": 118.2,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1999/03/27",
+    "latitude": -40.04,
+    "longitude": -71.75,
+    "depth": 33.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1999/04/03",
+    "latitude": -16.66,
+    "longitude": -72.66,
+    "depth": 87.2,
+    "magnitude": 6.1
+  },
+  {
+    "date": "1999/04/25",
+    "latitude": -31.8,
+    "longitude": -69.25,
+    "depth": 115.7,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1999/04/30",
+    "latitude": -31.65,
+    "longitude": -71.68,
+    "depth": 52.4,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1999/05/10",
+    "latitude": -30.4,
+    "longitude": -69.16,
+    "depth": 65.2,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1999/05/22",
+    "latitude": -36.78,
+    "longitude": -70.48,
+    "depth": 158.8,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1999/05/25",
+    "latitude": -27.93,
+    "longitude": -66.93,
+    "depth": 169.3,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1999/06/09",
+    "latitude": -22.75,
+    "longitude": -66.18,
+    "depth": 249.8,
+    "magnitude": 5.3
+  },
+  {
+    "date": "1999/06/29",
+    "latitude": -15.71,
+    "longitude": -72.5,
+    "depth": 117.9,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1999/07/09",
+    "latitude": -24.97,
+    "longitude": -70.5,
+    "depth": 40.5,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1999/08/02",
+    "latitude": -33.02,
+    "longitude": -70.15,
+    "depth": 95.4,
+    "magnitude": 5.2
+  },
+  {
+    "date": "1999/08/04",
+    "latitude": -31.66,
+    "longitude": -68.08,
+    "depth": 115.2,
+    "magnitude": 5.4
+  },
+  {
+    "date": "1999/08/12",
+    "latitude": -45.62,
+    "longitude": -76.58,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1999/08/22",
+    "latitude": -40.51,
+    "longitude": -74.76,
+    "depth": 33.0,
+    "magnitude": 6.2
+  },
+  {
+    "date": "1999/09/05",
+    "latitude": -17.25,
+    "longitude": -70.8,
+    "depth": 81.1,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1999/09/10",
+    "latitude": -29.74,
+    "longitude": -71.22,
+    "depth": 54.8,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1999/09/15",
+    "latitude": -20.93,
+    "longitude": -67.28,
+    "depth": 218.0,
+    "magnitude": 6.0
+  },
+  {
+    "date": "1999/09/29",
+    "latitude": -30.74,
+    "longitude": -71.99,
+    "depth": 33.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "1999/10/05",
+    "latitude": -21.53,
+    "longitude": -68.93,
+    "depth": 120.5,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1999/11/03",
+    "latitude": -38.03,
+    "longitude": -73.38,
+    "depth": 33.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "1999/11/03",
+    "latitude": -38.08,
+    "longitude": -73.53,
+    "depth": 33.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1999/11/06",
+    "latitude": -29.95,
+    "longitude": -71.58,
+    "depth": 54.6,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1999/11/18",
+    "latitude": -25.5,
+    "longitude": -70.2,
+    "depth": 53.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "1999/11/20",
+    "latitude": -30.76,
+    "longitude": -71.9,
+    "depth": 39.8,
+    "magnitude": 5.0
+  },
+  {
+    "date": "1999/11/21",
+    "latitude": -21.75,
+    "longitude": -68.78,
+    "depth": 101.2,
+    "magnitude": 5.9
+  },
+  {
+    "date": "1999/11/30",
+    "latitude": -18.9,
+    "longitude": -69.17,
+    "depth": 128.1,
+    "magnitude": 6.2
+  },
+  {
+    "date": "1999/12/04",
+    "latitude": -28.5,
+    "longitude": -71.22,
+    "depth": 34.3,
+    "magnitude": 5.5
+  },
+  {
+    "date": "1999/12/20",
+    "latitude": -15.48,
+    "longitude": -72.61,
+    "depth": 109.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2000/01/08",
+    "latitude": -23.17,
+    "longitude": -70.12,
+    "depth": 36.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "2000/01/19",
+    "latitude": -15.62,
+    "longitude": -75.13,
+    "depth": 33.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2000/02/21",
+    "latitude": -29.81,
+    "longitude": -71.46,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2000/03/08",
+    "latitude": -23.91,
+    "longitude": -67.04,
+    "depth": 183.7,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2000/03/25",
+    "latitude": -16.11,
+    "longitude": -69.53,
+    "depth": 219.5,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2000/03/26",
+    "latitude": -32.68,
+    "longitude": -71.84,
+    "depth": 36.8,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2000/04/30",
+    "latitude": -27.02,
+    "longitude": -66.04,
+    "depth": 35.6,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2000/05/09",
+    "latitude": -25.96,
+    "longitude": -69.91,
+    "depth": 57.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2000/05/12",
+    "latitude": -23.55,
+    "longitude": -66.45,
+    "depth": 225.0,
+    "magnitude": 6.2
+  },
+  {
+    "date": "2000/05/23",
+    "latitude": -24.46,
+    "longitude": -66.94,
+    "depth": 186.3,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2000/06/14",
+    "latitude": -24.03,
+    "longitude": -66.75,
+    "depth": 196.5,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2000/06/16",
+    "latitude": -33.88,
+    "longitude": -70.09,
+    "depth": 120.2,
+    "magnitude": 6.2
+  },
+  {
+    "date": "2000/07/07",
+    "latitude": -28.01,
+    "longitude": -66.61,
+    "depth": 174.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2000/07/13",
+    "latitude": -16.75,
+    "longitude": -71.66,
+    "depth": 38.1,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2000/07/27",
+    "latitude": -23.61,
+    "longitude": -68.54,
+    "depth": 109.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2000/08/03",
+    "latitude": -17.68,
+    "longitude": -71.97,
+    "depth": 33.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "2000/08/11",
+    "latitude": -18.18,
+    "longitude": -70.47,
+    "depth": 58.4,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2000/08/18",
+    "latitude": -19.17,
+    "longitude": -70.13,
+    "depth": 69.5,
+    "magnitude": 5.4
+  },
+  {
+    "date": "2000/08/23",
+    "latitude": -22.63,
+    "longitude": -68.28,
+    "depth": 118.2,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2000/10/18",
+    "latitude": -19.28,
+    "longitude": -68.24,
+    "depth": 152.5,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2000/10/24",
+    "latitude": -15.23,
+    "longitude": -72.68,
+    "depth": 106.8,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2000/11/27",
+    "latitude": -24.66,
+    "longitude": -70.15,
+    "depth": 58.3,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2000/11/29",
+    "latitude": -24.87,
+    "longitude": -70.89,
+    "depth": 58.2,
+    "magnitude": 5.8
+  },
+  {
+    "date": "2000/12/20",
+    "latitude": -39.01,
+    "longitude": -74.66,
+    "depth": 11.0,
+    "magnitude": 6.1
+  },
+  {
+    "date": "2001/01/07",
+    "latitude": -33.44,
+    "longitude": -72.23,
+    "depth": 10.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "2001/01/12",
+    "latitude": -15.58,
+    "longitude": -74.81,
+    "depth": 39.1,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2001/01/15",
+    "latitude": -15.8,
+    "longitude": -75.08,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2001/02/16",
+    "latitude": -15.35,
+    "longitude": -70.47,
+    "depth": 210.1,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2001/02/19",
+    "latitude": -45.1,
+    "longitude": -79.28,
+    "depth": 10.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2001/02/22",
+    "latitude": -27.82,
+    "longitude": -71.46,
+    "depth": 29.6,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2001/02/22",
+    "latitude": -16.69,
+    "longitude": -72.95,
+    "depth": 49.3,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2001/02/27",
+    "latitude": -27.9,
+    "longitude": -71.32,
+    "depth": 33.0,
+    "magnitude": 4.8
+  },
+  {
+    "date": "2001/03/03",
+    "latitude": -38.77,
+    "longitude": -74.56,
+    "depth": 33.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "2001/03/15",
+    "latitude": -32.32,
+    "longitude": -71.49,
+    "depth": 37.0,
+    "magnitude": 6.1
+  },
+  {
+    "date": "2001/03/16",
+    "latitude": -20.41,
+    "longitude": -68.74,
+    "depth": 115.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2001/03/31",
+    "latitude": -29.4,
+    "longitude": -68.33,
+    "depth": 104.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "2001/04/09",
+    "latitude": -32.67,
+    "longitude": -73.11,
+    "depth": 11.0,
+    "magnitude": 6.1
+  },
+  {
+    "date": "2001/04/17",
+    "latitude": -20.78,
+    "longitude": -70.48,
+    "depth": 33.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2001/04/21",
+    "latitude": -29.1,
+    "longitude": -67.52,
+    "depth": 127.8,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2001/05/06",
+    "latitude": -32.45,
+    "longitude": -70.9,
+    "depth": 52.2,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2001/05/15",
+    "latitude": -28.06,
+    "longitude": -66.55,
+    "depth": 176.5,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2001/05/24",
+    "latitude": -20.35,
+    "longitude": -67.25,
+    "depth": 204.3,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2001/06/13",
+    "latitude": -27.21,
+    "longitude": -66.5,
+    "depth": 16.9,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2001/06/18",
+    "latitude": -24.29,
+    "longitude": -69.17,
+    "depth": 88.8,
+    "magnitude": 5.5
+  },
+  {
+    "date": "2001/06/19",
+    "latitude": -22.74,
+    "longitude": -67.88,
+    "depth": 146.6,
+    "magnitude": 5.5
+  },
+  {
+    "date": "2001/06/23",
+    "latitude": -16.26,
+    "longitude": -73.64,
+    "depth": 33.0,
+    "magnitude": 6.7
+  },
+  {
+    "date": "2001/06/25",
+    "latitude": -15.98,
+    "longitude": -74.7,
+    "depth": 33.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2001/06/25",
+    "latitude": -16.85,
+    "longitude": -73.79,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2001/06/25",
+    "latitude": -17.57,
+    "longitude": -70.68,
+    "depth": 73.7,
+    "magnitude": 5.4
+  },
+  {
+    "date": "2001/06/26",
+    "latitude": -17.75,
+    "longitude": -71.65,
+    "depth": 24.0,
+    "magnitude": 6.2
+  },
+  {
+    "date": "2001/06/26",
+    "latitude": -16.56,
+    "longitude": -74.19,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2001/06/26",
+    "latitude": -17.61,
+    "longitude": -72.1,
+    "depth": 33.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2001/06/27",
+    "latitude": -17.89,
+    "longitude": -71.53,
+    "depth": 33.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2001/06/27",
+    "latitude": -31.51,
+    "longitude": -71.65,
+    "depth": 33.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2001/06/28",
+    "latitude": -17.58,
+    "longitude": -72.54,
+    "depth": 33.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2001/06/29",
+    "latitude": -19.52,
+    "longitude": -66.25,
+    "depth": 273.9,
+    "magnitude": 5.7
+  },
+  {
+    "date": "2001/06/29",
+    "latitude": -15.41,
+    "longitude": -70.36,
+    "depth": 33.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2001/06/30",
+    "latitude": -17.46,
+    "longitude": -72.07,
+    "depth": 33.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "2001/07/01",
+    "latitude": -17.12,
+    "longitude": -72.96,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2001/07/03",
+    "latitude": -16.62,
+    "longitude": -73.97,
+    "depth": 33.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "2001/07/04",
+    "latitude": -17.0,
+    "longitude": -65.71,
+    "depth": 33.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "2001/07/05",
+    "latitude": -16.09,
+    "longitude": -73.99,
+    "depth": 62.0,
+    "magnitude": 6.2
+  },
+  {
+    "date": "2001/07/07",
+    "latitude": -17.54,
+    "longitude": -72.08,
+    "depth": 33.0,
+    "magnitude": 6.6
+  },
+  {
+    "date": "2001/07/13",
+    "latitude": -19.95,
+    "longitude": -69.17,
+    "depth": 106.5,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2001/07/24",
+    "latitude": -19.45,
+    "longitude": -69.25,
+    "depth": 33.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "2001/07/24",
+    "latitude": -32.85,
+    "longitude": -71.58,
+    "depth": 33.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "2001/07/27",
+    "latitude": -17.41,
+    "longitude": -72.72,
+    "depth": 33.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2001/08/07",
+    "latitude": -17.1,
+    "longitude": -72.25,
+    "depth": 33.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2001/08/09",
+    "latitude": -18.17,
+    "longitude": -69.43,
+    "depth": 112.6,
+    "magnitude": 5.5
+  },
+  {
+    "date": "2001/08/09",
+    "latitude": -15.62,
+    "longitude": -72.07,
+    "depth": 33.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2001/08/11",
+    "latitude": -17.9,
+    "longitude": -71.21,
+    "depth": 37.1,
+    "magnitude": 5.6
+  },
+  {
+    "date": "2001/08/12",
+    "latitude": -16.72,
+    "longitude": -69.97,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2001/08/28",
+    "latitude": -21.72,
+    "longitude": -70.11,
+    "depth": 65.6,
+    "magnitude": 5.8
+  },
+  {
+    "date": "2001/09/02",
+    "latitude": -17.68,
+    "longitude": -72.09,
+    "depth": 33.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2001/09/15",
+    "latitude": -23.17,
+    "longitude": -68.22,
+    "depth": 112.5,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2001/10/12",
+    "latitude": -24.17,
+    "longitude": -66.83,
+    "depth": 201.2,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2001/10/12",
+    "latitude": -33.3,
+    "longitude": -69.74,
+    "depth": 3.8,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2001/10/17",
+    "latitude": -28.49,
+    "longitude": -68.92,
+    "depth": 117.3,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2001/10/20",
+    "latitude": -22.18,
+    "longitude": -68.41,
+    "depth": 118.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2001/10/23",
+    "latitude": -43.5,
+    "longitude": -75.89,
+    "depth": 33.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2001/11/01",
+    "latitude": -17.56,
+    "longitude": -71.93,
+    "depth": 33.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2001/11/03",
+    "latitude": -36.25,
+    "longitude": -71.65,
+    "depth": 86.2,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2001/11/04",
+    "latitude": -16.62,
+    "longitude": -73.92,
+    "depth": 27.4,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2001/11/06",
+    "latitude": -30.44,
+    "longitude": -71.15,
+    "depth": 61.4,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2001/11/07",
+    "latitude": -21.07,
+    "longitude": -68.09,
+    "depth": 126.5,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2001/11/27",
+    "latitude": -15.88,
+    "longitude": -74.14,
+    "depth": 42.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "2001/12/04",
+    "latitude": -15.35,
+    "longitude": -72.52,
+    "depth": 33.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "2001/12/08",
+    "latitude": -15.11,
+    "longitude": -72.74,
+    "depth": 26.1,
+    "magnitude": 5.4
+  },
+  {
+    "date": "2001/12/23",
+    "latitude": -16.57,
+    "longitude": -73.83,
+    "depth": 28.2,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2001/12/31",
+    "latitude": -17.42,
+    "longitude": -72.67,
+    "depth": 31.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2002/01/14",
+    "latitude": -19.38,
+    "longitude": -69.23,
+    "depth": 33.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "2002/02/03",
+    "latitude": -15.65,
+    "longitude": -72.03,
+    "depth": 33.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2002/02/21",
+    "latitude": -31.69,
+    "longitude": -67.36,
+    "depth": 120.6,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2002/02/22",
+    "latitude": -25.51,
+    "longitude": -70.12,
+    "depth": 48.4,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2002/02/24",
+    "latitude": -16.47,
+    "longitude": -70.24,
+    "depth": 33.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2002/02/26",
+    "latitude": -18.3,
+    "longitude": -69.71,
+    "depth": 91.7,
+    "magnitude": 5.5
+  },
+  {
+    "date": "2002/03/03",
+    "latitude": -45.84,
+    "longitude": -76.12,
+    "depth": 10.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2002/03/11",
+    "latitude": -44.54,
+    "longitude": -79.7,
+    "depth": 33.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2002/03/18",
+    "latitude": -20.39,
+    "longitude": -69.0,
+    "depth": 92.4,
+    "magnitude": 5.5
+  },
+  {
+    "date": "2002/03/23",
+    "latitude": -16.57,
+    "longitude": -73.77,
+    "depth": 33.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2002/03/25",
+    "latitude": -23.21,
+    "longitude": -67.99,
+    "depth": 132.8,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2002/03/28",
+    "latitude": -21.66,
+    "longitude": -68.33,
+    "depth": 125.1,
+    "magnitude": 6.1
+  },
+  {
+    "date": "2002/04/01",
+    "latitude": -29.67,
+    "longitude": -71.38,
+    "depth": 71.0,
+    "magnitude": 6.1
+  },
+  {
+    "date": "2002/04/15",
+    "latitude": -22.75,
+    "longitude": -68.97,
+    "depth": 90.5,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2002/04/18",
+    "latitude": -27.53,
+    "longitude": -70.59,
+    "depth": 62.0,
+    "magnitude": 6.2
+  },
+  {
+    "date": "2002/04/27",
+    "latitude": -30.94,
+    "longitude": -67.39,
+    "depth": 33.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2002/05/11",
+    "latitude": -25.96,
+    "longitude": -70.9,
+    "depth": 33.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2002/05/15",
+    "latitude": -23.06,
+    "longitude": -68.2,
+    "depth": 125.5,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2002/05/23",
+    "latitude": -30.75,
+    "longitude": -71.2,
+    "depth": 52.1,
+    "magnitude": 5.7
+  },
+  {
+    "date": "2002/05/24",
+    "latitude": -31.97,
+    "longitude": -70.95,
+    "depth": 60.2,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2002/05/28",
+    "latitude": -28.94,
+    "longitude": -66.8,
+    "depth": 22.2,
+    "magnitude": 6.0
+  },
+  {
+    "date": "2002/06/02",
+    "latitude": -19.74,
+    "longitude": -68.99,
+    "depth": 101.1,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2002/06/18",
+    "latitude": -30.81,
+    "longitude": -71.12,
+    "depth": 54.0,
+    "magnitude": 6.0
+  },
+  {
+    "date": "2002/06/20",
+    "latitude": -17.93,
+    "longitude": -71.43,
+    "depth": 25.2,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2002/06/23",
+    "latitude": -30.84,
+    "longitude": -71.17,
+    "depth": 67.1,
+    "magnitude": 5.6
+  },
+  {
+    "date": "2002/06/30",
+    "latitude": -15.4,
+    "longitude": -72.88,
+    "depth": 107.4,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2002/07/02",
+    "latitude": -31.15,
+    "longitude": -67.76,
+    "depth": 27.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "2002/07/18",
+    "latitude": -44.72,
+    "longitude": -79.75,
+    "depth": 10.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2002/08/26",
+    "latitude": -17.8,
+    "longitude": -71.35,
+    "depth": 33.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2002/08/29",
+    "latitude": -21.24,
+    "longitude": -68.37,
+    "depth": 116.4,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2002/09/16",
+    "latitude": -16.48,
+    "longitude": -72.45,
+    "depth": 74.4,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2002/09/24",
+    "latitude": -31.52,
+    "longitude": -69.2,
+    "depth": 119.6,
+    "magnitude": 6.2
+  },
+  {
+    "date": "2002/09/30",
+    "latitude": -35.23,
+    "longitude": -70.83,
+    "depth": 95.6,
+    "magnitude": 5.4
+  },
+  {
+    "date": "2002/10/06",
+    "latitude": -28.71,
+    "longitude": -71.21,
+    "depth": 27.2,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2002/10/31",
+    "latitude": -40.1,
+    "longitude": -74.72,
+    "depth": 33.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2002/11/09",
+    "latitude": -48.15,
+    "longitude": -75.51,
+    "depth": 33.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2002/11/10",
+    "latitude": -16.6,
+    "longitude": -72.96,
+    "depth": 45.7,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2002/11/12",
+    "latitude": -20.16,
+    "longitude": -68.76,
+    "depth": 109.9,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2002/12/04",
+    "latitude": -30.06,
+    "longitude": -67.6,
+    "depth": 29.5,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2002/12/12",
+    "latitude": -31.8,
+    "longitude": -67.3,
+    "depth": 126.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2002/12/13",
+    "latitude": -15.6,
+    "longitude": -71.93,
+    "depth": 11.5,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2002/12/13",
+    "latitude": -22.26,
+    "longitude": -68.54,
+    "depth": 110.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2002/12/26",
+    "latitude": -31.23,
+    "longitude": -68.57,
+    "depth": 112.4,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2003/01/02",
+    "latitude": -17.4,
+    "longitude": -72.57,
+    "depth": 33.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2003/01/05",
+    "latitude": -21.54,
+    "longitude": -68.29,
+    "depth": 126.1,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2003/01/07",
+    "latitude": -33.76,
+    "longitude": -70.05,
+    "depth": 110.8,
+    "magnitude": 6.0
+  },
+  {
+    "date": "2003/01/09",
+    "latitude": -18.15,
+    "longitude": -71.0,
+    "depth": 33.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "2003/01/09",
+    "latitude": -44.44,
+    "longitude": -79.24,
+    "depth": 10.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2003/01/28",
+    "latitude": -15.37,
+    "longitude": -74.08,
+    "depth": 68.2,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2003/02/20",
+    "latitude": -18.44,
+    "longitude": -70.99,
+    "depth": 33.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2003/02/28",
+    "latitude": -35.33,
+    "longitude": -73.18,
+    "depth": 33.8,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2003/03/19",
+    "latitude": -19.49,
+    "longitude": -70.58,
+    "depth": 33.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2003/04/06",
+    "latitude": -23.39,
+    "longitude": -68.76,
+    "depth": 95.9,
+    "magnitude": 5.4
+  },
+  {
+    "date": "2003/04/14",
+    "latitude": -35.34,
+    "longitude": -72.58,
+    "depth": 33.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "2003/04/23",
+    "latitude": -21.37,
+    "longitude": -70.15,
+    "depth": 55.9,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2003/04/24",
+    "latitude": -24.02,
+    "longitude": -70.42,
+    "depth": 50.8,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2003/05/18",
+    "latitude": -31.4,
+    "longitude": -69.09,
+    "depth": 114.1,
+    "magnitude": 5.5
+  },
+  {
+    "date": "2003/05/27",
+    "latitude": -31.36,
+    "longitude": -68.6,
+    "depth": 118.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "2003/06/02",
+    "latitude": -32.95,
+    "longitude": -71.97,
+    "depth": 33.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2003/06/03",
+    "latitude": -17.36,
+    "longitude": -72.81,
+    "depth": 33.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "2003/06/19",
+    "latitude": -30.69,
+    "longitude": -71.54,
+    "depth": 51.4,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2003/06/20",
+    "latitude": -45.57,
+    "longitude": -75.94,
+    "depth": 33.0,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2003/06/20",
+    "latitude": -30.61,
+    "longitude": -71.64,
+    "depth": 33.0,
+    "magnitude": 6.4
+  },
+  {
+    "date": "2003/07/13",
+    "latitude": -22.05,
+    "longitude": -68.38,
+    "depth": 114.6,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2003/07/17",
+    "latitude": -19.61,
+    "longitude": -68.59,
+    "depth": 135.4,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2003/07/26",
+    "latitude": -28.2,
+    "longitude": -70.94,
+    "depth": 36.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2003/07/27",
+    "latitude": -20.13,
+    "longitude": -65.18,
+    "depth": 345.3,
+    "magnitude": 5.9
+  },
+  {
+    "date": "2003/07/29",
+    "latitude": -21.58,
+    "longitude": -68.25,
+    "depth": 125.9,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2003/08/26",
+    "latitude": -17.16,
+    "longitude": -70.67,
+    "depth": 31.6,
+    "magnitude": 5.8
+  },
+  {
+    "date": "2003/09/12",
+    "latitude": -51.62,
+    "longitude": -75.59,
+    "depth": 33.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2003/09/17",
+    "latitude": -21.47,
+    "longitude": -68.32,
+    "depth": 127.1,
+    "magnitude": 5.9
+  },
+  {
+    "date": "2003/09/28",
+    "latitude": -35.2,
+    "longitude": -70.68,
+    "depth": 105.8,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2003/10/04",
+    "latitude": -28.88,
+    "longitude": -71.3,
+    "depth": 29.2,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2003/10/11",
+    "latitude": -17.83,
+    "longitude": -69.35,
+    "depth": 128.4,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2003/10/26",
+    "latitude": -17.71,
+    "longitude": -69.89,
+    "depth": 107.9,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2003/10/28",
+    "latitude": -51.65,
+    "longitude": -75.56,
+    "depth": 33.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2003/11/01",
+    "latitude": -35.6,
+    "longitude": -67.69,
+    "depth": 33.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2003/11/12",
+    "latitude": -40.02,
+    "longitude": -74.87,
+    "depth": 29.6,
+    "magnitude": 5.5
+  },
+  {
+    "date": "2003/11/25",
+    "latitude": -23.37,
+    "longitude": -67.55,
+    "depth": 160.3,
+    "magnitude": 5.4
+  },
+  {
+    "date": "2003/11/26",
+    "latitude": -29.82,
+    "longitude": -71.05,
+    "depth": 63.1,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2003/12/10",
+    "latitude": -27.96,
+    "longitude": -71.32,
+    "depth": 33.0,
+    "magnitude": 5.5
+  },
+  {
+    "date": "2003/12/12",
+    "latitude": -21.04,
+    "longitude": -68.18,
+    "depth": 116.5,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2004/01/10",
+    "latitude": -30.88,
+    "longitude": -71.66,
+    "depth": 55.1,
+    "magnitude": 5.6
+  },
+  {
+    "date": "2004/01/12",
+    "latitude": -15.66,
+    "longitude": -73.94,
+    "depth": 82.5,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2004/01/19",
+    "latitude": -31.73,
+    "longitude": -71.72,
+    "depth": 31.1,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2004/01/23",
+    "latitude": -23.05,
+    "longitude": -69.89,
+    "depth": 71.5,
+    "magnitude": 5.5
+  },
+  {
+    "date": "2004/01/27",
+    "latitude": -17.84,
+    "longitude": -71.07,
+    "depth": 56.9,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2004/02/03",
+    "latitude": -18.26,
+    "longitude": -70.89,
+    "depth": 24.9,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2004/02/19",
+    "latitude": -23.99,
+    "longitude": -66.71,
+    "depth": 203.5,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2004/02/26",
+    "latitude": -23.14,
+    "longitude": -67.57,
+    "depth": 127.5,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2004/03/17",
+    "latitude": -21.12,
+    "longitude": -65.59,
+    "depth": 289.8,
+    "magnitude": 5.5
+  },
+  {
+    "date": "2004/03/17",
+    "latitude": -32.01,
+    "longitude": -66.7,
+    "depth": 31.7,
+    "magnitude": 5.5
+  },
+  {
+    "date": "2004/03/19",
+    "latitude": -20.41,
+    "longitude": -70.2,
+    "depth": 33.1,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2004/03/23",
+    "latitude": -21.2,
+    "longitude": -68.18,
+    "depth": 123.6,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2004/03/31",
+    "latitude": -25.18,
+    "longitude": -67.54,
+    "depth": 129.5,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2004/04/03",
+    "latitude": -29.99,
+    "longitude": -71.99,
+    "depth": 34.5,
+    "magnitude": 5.5
+  },
+  {
+    "date": "2004/04/15",
+    "latitude": -30.14,
+    "longitude": -67.43,
+    "depth": 29.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "2004/04/22",
+    "latitude": -23.93,
+    "longitude": -69.92,
+    "depth": 48.8,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2004/04/27",
+    "latitude": -23.55,
+    "longitude": -69.17,
+    "depth": 94.7,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2004/04/30",
+    "latitude": -33.55,
+    "longitude": -70.52,
+    "depth": 93.8,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2004/05/03",
+    "latitude": -37.69,
+    "longitude": -73.41,
+    "depth": 21.0,
+    "magnitude": 5.9
+  },
+  {
+    "date": "2004/05/29",
+    "latitude": -20.45,
+    "longitude": -68.89,
+    "depth": 102.6,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2004/05/30",
+    "latitude": -17.24,
+    "longitude": -70.55,
+    "depth": 108.9,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2004/06/01",
+    "latitude": -32.07,
+    "longitude": -68.03,
+    "depth": 38.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "2004/06/15",
+    "latitude": -38.85,
+    "longitude": -73.15,
+    "depth": 37.8,
+    "magnitude": 5.7
+  },
+  {
+    "date": "2004/06/17",
+    "latitude": -21.25,
+    "longitude": -68.37,
+    "depth": 115.4,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2004/06/23",
+    "latitude": -19.47,
+    "longitude": -69.05,
+    "depth": 108.6,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2004/07/25",
+    "latitude": -17.63,
+    "longitude": -69.11,
+    "depth": 156.2,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2004/07/31",
+    "latitude": -21.37,
+    "longitude": -68.11,
+    "depth": 93.6,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2004/08/12",
+    "latitude": -16.13,
+    "longitude": -73.58,
+    "depth": 44.3,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2004/08/25",
+    "latitude": -20.35,
+    "longitude": -68.93,
+    "depth": 93.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2004/08/27",
+    "latitude": -27.42,
+    "longitude": -70.81,
+    "depth": 30.0,
+    "magnitude": 5.8
+  },
+  {
+    "date": "2004/08/28",
+    "latitude": -34.93,
+    "longitude": -70.39,
+    "depth": 1.0,
+    "magnitude": 6.1
+  },
+  {
+    "date": "2004/08/30",
+    "latitude": -50.69,
+    "longitude": -72.14,
+    "depth": 24.7,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2004/09/07",
+    "latitude": -33.97,
+    "longitude": -72.42,
+    "depth": 36.3,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2004/09/07",
+    "latitude": -28.57,
+    "longitude": -65.84,
+    "depth": 22.3,
+    "magnitude": 6.1
+  },
+  {
+    "date": "2004/09/07",
+    "latitude": -34.01,
+    "longitude": -72.19,
+    "depth": 16.5,
+    "magnitude": 5.7
+  },
+  {
+    "date": "2004/09/07",
+    "latitude": -50.69,
+    "longitude": -72.24,
+    "depth": 25.9,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2004/09/08",
+    "latitude": -33.99,
+    "longitude": -72.32,
+    "depth": 31.9,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2004/09/10",
+    "latitude": -37.93,
+    "longitude": -72.96,
+    "depth": 44.5,
+    "magnitude": 5.4
+  },
+  {
+    "date": "2004/09/12",
+    "latitude": -34.14,
+    "longitude": -70.01,
+    "depth": 5.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "2004/09/16",
+    "latitude": -17.28,
+    "longitude": -72.49,
+    "depth": 28.3,
+    "magnitude": 5.5
+  },
+  {
+    "date": "2004/09/23",
+    "latitude": -25.06,
+    "longitude": -68.86,
+    "depth": 107.2,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2004/09/27",
+    "latitude": -32.69,
+    "longitude": -71.74,
+    "depth": 32.9,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2004/09/28",
+    "latitude": -15.69,
+    "longitude": -74.53,
+    "depth": 27.1,
+    "magnitude": 5.4
+  },
+  {
+    "date": "2004/10/02",
+    "latitude": -20.03,
+    "longitude": -68.36,
+    "depth": 147.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2004/10/03",
+    "latitude": -22.29,
+    "longitude": -68.34,
+    "depth": 108.2,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2004/10/20",
+    "latitude": -15.61,
+    "longitude": -73.97,
+    "depth": 75.6,
+    "magnitude": 5.4
+  },
+  {
+    "date": "2004/10/22",
+    "latitude": -15.24,
+    "longitude": -74.65,
+    "depth": 55.6,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2004/10/23",
+    "latitude": -29.23,
+    "longitude": -67.19,
+    "depth": 132.9,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2004/10/24",
+    "latitude": -40.28,
+    "longitude": -74.89,
+    "depth": 27.2,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2004/10/29",
+    "latitude": -30.56,
+    "longitude": -67.23,
+    "depth": 24.6,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2004/11/04",
+    "latitude": -45.92,
+    "longitude": -76.55,
+    "depth": 25.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2004/11/04",
+    "latitude": -45.9,
+    "longitude": -76.44,
+    "depth": 25.6,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2004/11/04",
+    "latitude": -22.36,
+    "longitude": -68.91,
+    "depth": 85.6,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2004/11/11",
+    "latitude": -22.9,
+    "longitude": -69.8,
+    "depth": 71.2,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2004/11/11",
+    "latitude": -16.98,
+    "longitude": -69.58,
+    "depth": 144.2,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2004/11/13",
+    "latitude": -29.86,
+    "longitude": -71.86,
+    "depth": 4.2,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2004/11/13",
+    "latitude": -23.15,
+    "longitude": -66.57,
+    "depth": 197.4,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2004/11/23",
+    "latitude": -23.1,
+    "longitude": -68.32,
+    "depth": 121.9,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2004/12/07",
+    "latitude": -21.53,
+    "longitude": -68.75,
+    "depth": 95.3,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2004/12/08",
+    "latitude": -30.84,
+    "longitude": -71.22,
+    "depth": 44.0,
+    "magnitude": 5.7
+  },
+  {
+    "date": "2004/12/18",
+    "latitude": -16.2,
+    "longitude": -73.93,
+    "depth": 27.8,
+    "magnitude": 5.5
+  },
+  {
+    "date": "2004/12/20",
+    "latitude": -15.27,
+    "longitude": -75.17,
+    "depth": 25.9,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2004/12/29",
+    "latitude": -16.32,
+    "longitude": -74.04,
+    "depth": 26.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2005/01/06",
+    "latitude": -21.85,
+    "longitude": -68.45,
+    "depth": 125.2,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2005/01/11",
+    "latitude": -23.89,
+    "longitude": -67.06,
+    "depth": 165.4,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2005/01/20",
+    "latitude": -22.14,
+    "longitude": -68.73,
+    "depth": 102.1,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2005/01/24",
+    "latitude": -29.4,
+    "longitude": -71.71,
+    "depth": 42.6,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2005/02/04",
+    "latitude": -37.87,
+    "longitude": -73.78,
+    "depth": 22.8,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2005/03/01",
+    "latitude": -24.04,
+    "longitude": -66.54,
+    "depth": 189.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2005/03/01",
+    "latitude": -31.43,
+    "longitude": -71.69,
+    "depth": 25.2,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2005/03/05",
+    "latitude": -22.0,
+    "longitude": -68.4,
+    "depth": 112.8,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2005/03/13",
+    "latitude": -32.59,
+    "longitude": -71.68,
+    "depth": 25.7,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2005/03/14",
+    "latitude": -28.56,
+    "longitude": -66.0,
+    "depth": 23.4,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2005/03/15",
+    "latitude": -24.11,
+    "longitude": -66.74,
+    "depth": 170.3,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2005/03/19",
+    "latitude": -20.42,
+    "longitude": -68.63,
+    "depth": 109.2,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2005/03/19",
+    "latitude": -27.86,
+    "longitude": -71.26,
+    "depth": 24.7,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2005/03/21",
+    "latitude": -27.93,
+    "longitude": -71.42,
+    "depth": 36.5,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2005/03/25",
+    "latitude": -20.29,
+    "longitude": -68.94,
+    "depth": 96.1,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2005/03/29",
+    "latitude": -33.71,
+    "longitude": -72.28,
+    "depth": 34.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2005/03/30",
+    "latitude": -35.3,
+    "longitude": -71.04,
+    "depth": 89.9,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2005/04/13",
+    "latitude": -33.14,
+    "longitude": -72.85,
+    "depth": 30.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "2005/04/16",
+    "latitude": -17.65,
+    "longitude": -69.66,
+    "depth": 118.7,
+    "magnitude": 5.6
+  },
+  {
+    "date": "2005/04/20",
+    "latitude": -17.58,
+    "longitude": -71.35,
+    "depth": 28.1,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2005/05/19",
+    "latitude": -31.54,
+    "longitude": -69.43,
+    "depth": 117.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2005/05/22",
+    "latitude": -19.51,
+    "longitude": -68.32,
+    "depth": 150.8,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2005/06/02",
+    "latitude": -24.22,
+    "longitude": -67.0,
+    "depth": 196.2,
+    "magnitude": 5.7
+  },
+  {
+    "date": "2005/06/03",
+    "latitude": -16.48,
+    "longitude": -70.72,
+    "depth": 134.8,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2005/06/08",
+    "latitude": -28.42,
+    "longitude": -69.02,
+    "depth": 122.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2005/06/13",
+    "latitude": -19.99,
+    "longitude": -69.2,
+    "depth": 115.6,
+    "magnitude": 6.8
+  },
+  {
+    "date": "2005/06/21",
+    "latitude": -19.99,
+    "longitude": -68.81,
+    "depth": 105.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "2005/06/27",
+    "latitude": -19.56,
+    "longitude": -69.6,
+    "depth": 37.6,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2005/07/05",
+    "latitude": -50.67,
+    "longitude": -72.07,
+    "depth": 22.4,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2005/07/13",
+    "latitude": -17.85,
+    "longitude": -70.11,
+    "depth": 79.9,
+    "magnitude": 5.6
+  },
+  {
+    "date": "2005/07/15",
+    "latitude": -19.04,
+    "longitude": -68.75,
+    "depth": 127.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2005/07/22",
+    "latitude": -29.34,
+    "longitude": -71.07,
+    "depth": 50.5,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2005/07/26",
+    "latitude": -15.35,
+    "longitude": -72.96,
+    "depth": 110.5,
+    "magnitude": 5.8
+  },
+  {
+    "date": "2005/08/03",
+    "latitude": -16.9,
+    "longitude": -70.6,
+    "depth": 1.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2005/08/06",
+    "latitude": -17.36,
+    "longitude": -69.48,
+    "depth": 140.3,
+    "magnitude": 5.4
+  },
+  {
+    "date": "2005/08/14",
+    "latitude": -19.78,
+    "longitude": -68.98,
+    "depth": 113.8,
+    "magnitude": 5.7
+  },
+  {
+    "date": "2005/08/23",
+    "latitude": -32.81,
+    "longitude": -68.77,
+    "depth": 10.0,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2005/09/11",
+    "latitude": -36.7,
+    "longitude": -73.55,
+    "depth": 35.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2005/09/19",
+    "latitude": -19.98,
+    "longitude": -68.97,
+    "depth": 92.4,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2005/10/01",
+    "latitude": -16.64,
+    "longitude": -70.79,
+    "depth": 20.0,
+    "magnitude": 5.3
+  },
+  {
+    "date": "2005/10/02",
+    "latitude": -16.73,
+    "longitude": -70.61,
+    "depth": 14.2,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2005/10/10",
+    "latitude": -45.62,
+    "longitude": -76.57,
+    "depth": 35.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2005/10/11",
+    "latitude": -31.44,
+    "longitude": -66.89,
+    "depth": 110.6,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2005/10/17",
+    "latitude": -17.77,
+    "longitude": -69.49,
+    "depth": 123.0,
+    "magnitude": 5.6
+  },
+  {
+    "date": "2005/10/23",
+    "latitude": -21.8,
+    "longitude": -68.42,
+    "depth": 117.0,
+    "magnitude": 5.4
+  },
+  {
+    "date": "2005/10/24",
+    "latitude": -29.07,
+    "longitude": -68.5,
+    "depth": 97.6,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2005/11/11",
+    "latitude": -15.41,
+    "longitude": -75.51,
+    "depth": 1.6,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2005/11/12",
+    "latitude": -24.03,
+    "longitude": -66.62,
+    "depth": 188.5,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2005/11/13",
+    "latitude": -18.67,
+    "longitude": -69.34,
+    "depth": 85.4,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2005/11/17",
+    "latitude": -22.32,
+    "longitude": -67.89,
+    "depth": 162.6,
+    "magnitude": 6.0
+  },
+  {
+    "date": "2005/11/28",
+    "latitude": -29.31,
+    "longitude": -70.96,
+    "depth": 48.6,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2005/12/14",
+    "latitude": -31.05,
+    "longitude": -71.61,
+    "depth": 57.2,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2005/12/15",
+    "latitude": -16.15,
+    "longitude": -70.86,
+    "depth": 137.0,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2005/12/15",
+    "latitude": -23.84,
+    "longitude": -66.59,
+    "depth": 184.6,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2005/12/21",
+    "latitude": -42.71,
+    "longitude": -74.06,
+    "depth": 25.8,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2005/12/21",
+    "latitude": -23.97,
+    "longitude": -66.91,
+    "depth": 175.4,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2005/12/26",
+    "latitude": -38.95,
+    "longitude": -73.19,
+    "depth": 29.8,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2005/12/28",
+    "latitude": -19.86,
+    "longitude": -68.92,
+    "depth": 103.6,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2005/12/31",
+    "latitude": -28.99,
+    "longitude": -71.52,
+    "depth": 25.0,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2006/01/04",
+    "latitude": -22.85,
+    "longitude": -66.17,
+    "depth": 242.8,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2006/01/05",
+    "latitude": -36.4,
+    "longitude": -73.22,
+    "depth": 23.9,
+    "magnitude": 5.4
+  },
+  {
+    "date": "2006/01/05",
+    "latitude": -15.64,
+    "longitude": -73.94,
+    "depth": 68.8,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2006/01/21",
+    "latitude": -25.72,
+    "longitude": -70.54,
+    "depth": 34.9,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2006/02/02",
+    "latitude": -17.15,
+    "longitude": -69.8,
+    "depth": 39.6,
+    "magnitude": 4.9
+  },
+  {
+    "date": "2006/02/05",
+    "latitude": -23.81,
+    "longitude": -67.87,
+    "depth": 110.3,
+    "magnitude": 5.0
+  },
+  {
+    "date": "2006/02/10",
+    "latitude": -32.52,
+    "longitude": -71.39,
+    "depth": 32.8,
+    "magnitude": 5.1
+  },
+  {
+    "date": "2006/03/01",
+    "latitude": -18.23,
+    "longitude": -69.03,
+    "depth": 126.9,
+    "magnitude": 5.2
+  },
+  {
+    "date": "2006/03/27",
+    "latitude": -20.8,
+    "longitude": -69.47,
+    "depth": 57.9,
+    "magnitude": 5.2
+  }
+]

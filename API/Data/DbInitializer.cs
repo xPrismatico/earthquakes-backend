@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.Json;
 using System.Threading.Tasks;
 using API.Models;
 using Microsoft.EntityFrameworkCore;
@@ -30,6 +31,37 @@ public class DbInitializer
 
         if (context.Earthquakes.Any()) return;
 
+        // Si no hay datos, poblamos la Base de datos
+
+
+        // Leer JSON
+        var jsonPath = Path.Combine(AppContext.BaseDirectory, "Data", "earthquakes.json");
+        var jsonData = File.ReadAllText(jsonPath);
+
+        // Deserializamos el JSON
+        var options = new JsonSerializerOptions
+        {
+            PropertyNameCaseInsensitive = true,
+        };
+
+        // Validacion de lectura del JSON
+        var rawEarthquakes = JsonSerializer.Deserialize<List<EarthquakeJson>>(jsonData, options)
+            ?? throw new InvalidOperationException("No se pudo deserializar el JSON.");
+
+        // Convertir a Entidad Earthquake (porque Date es un String)
+
+        var earthquakes = rawEarthquakes.Select(e => new Earthquake
+        {
+            Date = DateOnly.ParseExact(e.Date, "yyyy/MM/dd"), // Aseguramos que Date sea de tipo DateOnly
+            Latitude = e.Latitude,
+            Longitude = e.Longitude,
+            Depth = e.Depth,
+            Magnitude = e.Magnitude
+        }).ToList();
+
+
+        /*
+        // Creamos una lista de terremotos (datos de ejemplo)
         var earthquakes = new List<Earthquake>
         {
             new Earthquake
@@ -48,7 +80,8 @@ public class DbInitializer
                 Depth = 1.0,
                 Magnitude = 1.0
             }
-        };
+        };}
+        */
 
         context.Earthquakes.AddRange(earthquakes);
         context.SaveChanges();

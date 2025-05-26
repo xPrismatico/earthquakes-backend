@@ -3,6 +3,12 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
+# Environment
+.Environment
+#DB
+*.sqlite
+*.db
+
 # dotenv files
 .env
 
@@ -483,3 +489,4 @@ $RECYCLE.BIN/
 # Vim temporary swap files
 *.swp
 API/appsettings.json
+API/data.db
