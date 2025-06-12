@@ -8,6 +8,7 @@
 #DB
 *.sqlite
 *.db
+.db
 
 # dotenv files
 .env
