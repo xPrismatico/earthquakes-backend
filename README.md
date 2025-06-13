@@ -1,7 +1,7 @@
 
 # Earthquake Info Web API
 
-Este es el repositorio del **Backend (API REST)** para el proyecto *Earthquake Info Web Portal* desarrollado en la asignatura de **Sistemas Inteligentes**.
+Este es el repositorio del **Backend (API REST)** para el proyecto *Earthquake Info Web Portal* desarrollado en la asignatura de Sistemas Inteligentes.
 
 El objetivo de esta API es exponer, a través de endpoints REST, los datos sísmicos almacenados en una Base de datos SQLite, permitiendo realizar consultas flexibles mediante parámetros como fechas, coordenadas y magnitudes.
 
@@ -45,13 +45,13 @@ Cliente Web para la visualización e interacción del usuario con el Sistema de 
 Dentro de una carpeta donde desees alojar el proyecto, abre una consola (cmd o terminal) y ejecuta:
 
 ```bash
-git clone <https://github.com/xPrismatico/earthquakes-backend>
+git clone https://github.com/xPrismatico/earthquakes-backend
 ```
 
 Luego navega a la carpeta del proyecto:
 
 ```bash
-cd <earthquakes-backend>
+cd earthquakes-backend
 ```
 
 ---
@@ -70,7 +70,7 @@ Esto iniciará el servidor en la URL por defecto:
 https://localhost:5001
 ```
 
-El endpoint disponible será:
+El Endpoint disponible para obtener los terremotos será:
 
 ```
 https://localhost:5001/api/earthquakes
@@ -82,7 +82,7 @@ https://localhost:5001/api/earthquakes
 
 ### Terremotos
 
-- `GET /api/earthquakes`: Obtiene la lista de terremotos almacenados en la base de datos.
+- `GET /api/earthquakes`: Obtiene la lista de terremotos almacenados en la base de datos. A estos se puede aplicar una serie de filtros utilizando los QueryParams (utiliza Postman para esto)
 
 #### Parámetros Query disponibles (acumulables):
 
@@ -114,8 +114,7 @@ GET https://localhost:5001/api/earthquakes?startDate=1979-01-01&endDate=1979-01-
     "longitude": -70.5,
     "depth": 15.0,
     "magnitude": 5.8
-  },
-  ...
+  }
 ]
 ```
 
@@ -142,12 +141,8 @@ Estos datos provienen originalmente del archivo `earthquakes.json` generado por 
 
 ## Notas
 
-- Este repositorio corresponde **exclusivamente a la API REST**.
+- Este repositorio corresponde **exclusivamente a la API REST** para manejar consultas que se quieran hacer desde el Frontend a la Base de datos.
 - El Web Scraping y el Frontend son módulos separados que interactúan con esta API.
 - La base de datos es local y se carga automáticamente al correr la API.
 
 ---
-
-## Licencia
-
-Uso académico - Proyecto de Sistemas Inteligentes (Ingeniería Civil en Computación e Informática).
